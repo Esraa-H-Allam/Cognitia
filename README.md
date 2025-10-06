@@ -124,8 +124,8 @@ Implement cloud-based BI solutions for scalability.
 ---
 
 ### 📬 Contact Information
-Email: [esraahassanallam@gmail.com](mailto:esraahassanallam@gmail.com)
-LinkedIn: [linkedin.com/in/esraa-allam](linkedin.com/in/esraa-allam)
+* Email: [esraahassanallam@gmail.com](mailto:esraahassanallam@gmail.com) 
+* LinkedIn: [linkedin.com/in/esraa-allam](linkedin.com/in/esraa-allam)
 ---
 
 ### ⭐ Contributions & Support
