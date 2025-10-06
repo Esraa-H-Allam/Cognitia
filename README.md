@@ -114,10 +114,6 @@ Train and test the heart failure prediction model using Scikit-learn.
 ### 🔮 Future Enhancements
 Deploy real-time dashboards with live hospital data streams.
 
-Use NLP for patient feedback and sentiment analysis.
-
-Integrate IoT device data for continuous patient monitoring.
-
 Automate alert systems for early-risk detection.
 
 Implement cloud-based BI solutions for scalability.
