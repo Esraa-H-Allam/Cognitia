@@ -95,11 +95,11 @@ The focus combines **Business Intelligence (Power BI)** and **Machine Learning**
 ### 1️⃣ Clone the Repository
 ```bash
 git clone https://github.com/Esraa-H-Allam/Cognitia
-2️⃣ Install Dependencies
+### 2️⃣ Install Dependencies
 bash
 Copy code
 pip install -r requirements.txt
-3️⃣ Run the Project
+### 3️⃣ Run the Project
 Execute SQL and Python scripts for cleaning and merging data.
 
 Launch Power BI and connect to the prepared dataset.
@@ -108,7 +108,7 @@ Visualize dashboards and generate reports.
 
 Train and test the heart failure prediction model using Scikit-learn.
 
-🔮 Future Enhancements
+### 🔮 Future Enhancements
 Deploy real-time dashboards with live hospital data streams.
 
 Use NLP for patient feedback and sentiment analysis.
@@ -119,10 +119,10 @@ Automate alert systems for early-risk detection.
 
 Implement cloud-based BI solutions for scalability.
 
-📬 Contact Information
+### 📬 Contact Information
 Email: esraahassanallam@gmail.com
 LinkedIn: linkedin.com/in/esraa-allam
 
-⭐ Contributions & Support
+### ⭐ Contributions & Support
 If you find this project valuable, give it a ⭐ and contribute via pull requests!
 Let’s make healthcare data smarter together 💡
