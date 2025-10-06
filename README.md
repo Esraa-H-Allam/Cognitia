@@ -41,7 +41,7 @@ The focus combines **Business Intelligence (Power BI)** and **Machine Learning**
 
 | Task | Member | Tools |
 |------|---------|-------|
-| Data Collection | **Esraa** | SQL |
+| Data Collection | **[Esraa]**(linkedin.com/in/esraa-allam) | SQL |
 | Data Cleaning | **Shimaa** | SQL, Power Query |
 | Data Visualization | **Samar** | Power BI |
 | Machine Learning | **Sama & Esraa** | Python, Scikit-learn |
@@ -95,10 +95,13 @@ The focus combines **Business Intelligence (Power BI)** and **Machine Learning**
 ### 1️⃣ Clone the Repository
 ```bash
 git clone https://github.com/Esraa-H-Allam/Cognitia
+```
 ### 2️⃣ Install Dependencies
 bash
 Copy code
+```c
 pip install -r requirements.txt
+```
 
 ### 3️⃣ Run the Project
 Execute SQL and Python scripts for cleaning and merging data.
@@ -121,8 +124,8 @@ Implement cloud-based BI solutions for scalability.
 ---
 
 ### 📬 Contact Information
-Email: esraahassanallam@gmail.com
-LinkedIn: linkedin.com/in/esraa-allam
+Email: [esraahassanallam@gmail.com](mailto:esraahassanallam@gmail.com)
+LinkedIn: [linkedin.com/in/esraa-allam](linkedin.com/in/esraa-allam)
 ---
 
 ### ⭐ Contributions & Support
