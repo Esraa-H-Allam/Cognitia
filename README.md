@@ -107,6 +107,7 @@ Launch Power BI and connect to the prepared dataset.
 Visualize dashboards and generate reports.
 
 Train and test the heart failure prediction model using Scikit-learn.
+---
 
 ### 🔮 Future Enhancements
 Deploy real-time dashboards with live hospital data streams.
@@ -118,10 +119,12 @@ Integrate IoT device data for continuous patient monitoring.
 Automate alert systems for early-risk detection.
 
 Implement cloud-based BI solutions for scalability.
+---
 
 ### 📬 Contact Information
 Email: esraahassanallam@gmail.com
 LinkedIn: linkedin.com/in/esraa-allam
+---
 
 ### ⭐ Contributions & Support
 If you find this project valuable, give it a ⭐ and contribute via pull requests!
