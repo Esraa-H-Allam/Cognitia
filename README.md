@@ -99,6 +99,7 @@ git clone https://github.com/Esraa-H-Allam/Cognitia
 bash
 Copy code
 pip install -r requirements.txt
+
 ### 3️⃣ Run the Project
 Execute SQL and Python scripts for cleaning and merging data.
 
@@ -107,6 +108,7 @@ Launch Power BI and connect to the prepared dataset.
 Visualize dashboards and generate reports.
 
 Train and test the heart failure prediction model using Scikit-learn.
+
 ---
 
 ### 🔮 Future Enhancements
@@ -119,6 +121,7 @@ Integrate IoT device data for continuous patient monitoring.
 Automate alert systems for early-risk detection.
 
 Implement cloud-based BI solutions for scalability.
+
 ---
 
 ### 📬 Contact Information
