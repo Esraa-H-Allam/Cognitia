@@ -1,80 +1,64 @@
-# Cognitia
-DEPI - Graduation Project
 # 🏥 Hospital and Heart Failure Records Analysis
 
-## 🔍 Executive Summary
-This project combines **Business Intelligence (BI)** and **Data Science** to deliver insights, predictive analytics, and decision support for hospital management and patient care.  
-By integrating **SQL**, **Python**, **Power BI**, and **Machine Learning**, the project aims to analyze hospital operations, improve patient outcomes, and predict **heart failure risk** based on clinical and operational data.
+## 📘 Project Overview
+
+This project integrates **hospital management data** and **clinical heart failure records** to analyze patient care quality, operational efficiency, financial performance, and satisfaction.  
+It also develops a **predictive model for heart failure risk** using **Scikit-learn**.
+
+The focus combines **Business Intelligence (Power BI)** and **Machine Learning** to deliver actionable insights and predictive analytics for healthcare improvement.
 
 ---
 
-## 📖 Table of Contents
-1. [Project Objectives](#-project-objectives)
-2. [Dataset Overview](#-dataset-overview)
-3. [Technologies & Tools](#-technologies--tools)
-4. [Methodology](#-methodology)
-5. [Key Performance Indicators (KPIs)](#-key-performance-indicators-kpis)
-6. [Project Timeline & Milestones](#-project-timeline--milestones)
-7. [Deliverables](#-deliverables)
-8. [Roles & Responsibilities](#-roles--responsibilities)
-9. [Setup & Execution Guide](#-setup--execution-guide)
-10. [Future Enhancements](#-future-enhancements)
-11. [Contact Information](#-contact-information)
-12. [Contributions & Support](#-contributions--support)
-13. [Copyright & Licensing](#-copyright--licensing)
+## 🎯 Objectives
+
+- Analyze and merge hospital and heart failure datasets.
+- Identify patterns impacting patient care quality and hospital performance.
+- Predict heart failure risk using machine learning models.
+- Visualize operational, clinical, and financial KPIs with Power BI dashboards.
 
 ---
 
-## 🏆 Project Objectives
-- **Develop BI Dashboards:** Visualize key hospital and patient care metrics in real-time.  
-- **Predict Heart Failure Risk:** Build an ML model to predict risk using clinical records.  
-- **Optimize Operational Efficiency:** Analyze hospital workflow and automate reporting.  
-- **Enable Data-Driven Decisions:** Support administrators and doctors with insights.  
-- **Enhance Data Integration:** Combine hospital management and clinical datasets.
+## 🧰 Tools & Technologies
+
+| Category | Tools |
+|-----------|--------|
+| Data Collection & Cleaning | SQL, Excel, Power Query |
+| Data Analysis & Preprocessing | Python (Pandas, NumPy) |
+| Machine Learning | Scikit-learn |
+| Visualization & Reporting | Power BI |
+| Collaboration | GitHub |
 
 ---
 
-## 📁 Dataset Overview
-| Dataset | Source | Description |
-|----------|---------|-------------|
-| **Heart Failure Clinical Records** | [Kaggle Link](https://www.kaggle.com/datasets/nimapourmoradi/heart-failure-clinical-records) | Contains medical records of heart failure patients, including age, ejection fraction, serum creatinine, and death event. |
-| **Hospital Management Dataset** | [Kaggle Link](https://www.kaggle.com/datasets/kanakbaghel/hospital-management-dataset) | Contains administrative, operational, and financial hospital data, including admissions, departments, and costs. |
+## 📂 Datasets
 
-- **Volume:** Thousands of records across multiple hospital dimensions.  
-- **Combined Focus:** Operational + Clinical data to enhance predictive analysis.  
+- [Heart Failure Clinical Records](https://www.kaggle.com/datasets/nimapourmoradi/heart-failure-clinical-records)  
+- [Hospital Management Dataset](https://www.kaggle.com/datasets/kanakbaghel/hospital-management-dataset)
 
 ---
 
-## 🛠 Technologies & Tools
-| Functionality | Tools |
-|----------------|-------|
-| **Data Management** | SQL, Excel |
-| **Data Preparation & Cleaning** | Python (Pandas), Power Query |
-| **Business Intelligence** | Power BI |
-| **Machine Learning** | Python (Scikit-learn) |
-| **Version Control** | Git, GitHub |
+## 👥 Team Roles
+
+| Task | Member | Tools |
+|------|---------|-------|
+| Data Collection | **Esraa** | Excel, Python |
+| Data Cleaning | **Shimaa** | SQL, Power Query |
+| Data Visualization | **Samar** | Power BI |
+| Machine Learning | **Sama & Esraa** | Python, Scikit-learn |
+| Presentation & Documentation | **Esraa** | PowerPoint |
 
 ---
 
-## 🔬 Methodology
-### 1. Data Integration & Preparation
-- Collect datasets from multiple sources.  
-- Clean and preprocess using **SQL**, **Pandas**, and **Power Query**.  
-- Merge hospital and clinical data for unified analysis.  
+## 🗓️ Project Timeline
 
-### 2. Business Intelligence & Visualization
-- Develop **interactive Power BI dashboards**.  
-- Track operational, financial, and patient-care KPIs.  
-- Automate reporting for stakeholders.  
-
-### 3. Machine Learning & Predictive Analysis
-- Use **Scikit-learn** to train a model for **heart failure risk prediction**.  
-- Evaluate performance (accuracy, recall, precision).  
-- Integrate ML results into the BI dashboard.  
-
-### 4. Self-Service & Reporting
-- Provide automated dashboards and summary reports.  
-- Enable team and stakeholders to explore data dynamically.
+| Week | Dates | Main Tasks |
+|------|--------|------------|
+| **Week 1** | Oct 11 – Oct 17 | Data collection, dataset understanding, documentation setup |
+| **Week 2** | Oct 18 – Oct 24 | Data cleaning using SQL & Power Query |
+| **Week 3** | Oct 25 – Oct 31 | Data preprocessing with Python (Pandas) |
+| **Week 4** | Nov 1 – Nov 7 | Visualization and dashboard creation in Power BI |
+| **Week 5** | Nov 8 – Nov 14 | Model training & testing using Scikit-learn |
+| **Week 6** | Nov 15 – Nov 21 | Reporting, presentation design, and final review |
 
 ---
 
@@ -83,7 +67,7 @@ By integrating **SQL**, **Python**, **Power BI**, and **Machine Learning**, the 
 ### 🏥 Patient Care Quality
 - **Mortality Rate**
 - **Readmission Rate**
-- **Hospital-Acquired Infection Rate (HAI)**
+- **Hospital-Acquired Infection (HAI) Rate**
 - **Medication Error Rate**
 - **Complication Rate**
 
@@ -95,7 +79,7 @@ By integrating **SQL**, **Python**, **Power BI**, and **Machine Learning**, the 
 
 ### 💰 Financial Performance
 - **Operating Margin**
-- **Average Cost per Discharge**
+- **Average Cost Per Discharge**
 - **Days in Accounts Receivable (A/R)**
 - **Claims Denial Rate**
 
@@ -106,80 +90,39 @@ By integrating **SQL**, **Python**, **Power BI**, and **Machine Learning**, the 
 
 ---
 
-## 📅 Project Timeline & Milestones
-| Phase | Key Activities | Duration | Dates |
-|--------|----------------|-----------|--------|
-| **Phase 1** | Data Collection & Cleaning | 1 week | Oct 11 – Oct 17, 2025 |
-| **Phase 2** | Data Integration & Preparation | 1 week | Oct 18 – Oct 24, 2025 |
-| **Phase 3** | Visualization (Power BI Dashboards) | 2 weeks | Oct 25 – Nov 7, 2025 |
-| **Phase 4** | Machine Learning Model Development | 1.5 weeks | Nov 8 – Nov 18, 2025 |
-| **Phase 5** | Presentation & Final Documentation | 0.5 week | Nov 19 – Nov 22, 2025 |
-
----
-
-## 🚀 Deliverables
-- Cleaned and integrated dataset (SQL + Python).  
-- Power BI dashboards with hospital KPIs.  
-- Trained heart failure prediction model.  
-- Automated reports and visual summaries.  
-- Final presentation and documentation.
-
----
-
-## 👥 Roles & Responsibilities
-| Role | Team Member | Responsibilities |
-|------|--------------|------------------|
-| **Data Collection** | Esraa | Collect clinical and hospital datasets. |
-| **Data Cleaning** | Shimaa | Clean and preprocess data using SQL + Power Query. |
-| **Data Visualization** | Samar | Design Power BI dashboards. |
-| **Machine Learning** | Sama & Esraa | Build and evaluate predictive models. |
-| **PowerPoint & Presentation** | Esraa | Prepare the final presentation materials. |
-
----
-
 ## 🚀 Setup & Execution Guide
-1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/Esraa-H-Allam/Cognitia
-   Install Dependencies
-Install Dependencies
 
+### 1️⃣ Clone the Repository
+```bash
+git clone https://github.com/Esraa-H-Allam/Cognitia
+2️⃣ Install Dependencies
+bash
+Copy code
 pip install -r requirements.txt
-
-
-Run Preprocessing Scripts
-
+3️⃣ Run the Project
 Execute SQL and Python scripts for cleaning and merging data.
 
-Launch Power BI Dashboards
+Launch Power BI and connect to the prepared dataset.
 
-Connect to the prepared dataset and publish dashboards.
-
-Run ML Model
+Visualize dashboards and generate reports.
 
 Train and test the heart failure prediction model using Scikit-learn.
 
-Generate Reports
-
-Export automated Power BI visuals and summary insights.
-
 🔮 Future Enhancements
-
 Deploy real-time dashboards with live hospital data streams.
 
 Use NLP for patient feedback and sentiment analysis.
 
-Integrate IoT device data for patient monitoring.
+Integrate IoT device data for continuous patient monitoring.
 
 Automate alert systems for early-risk detection.
 
 Implement cloud-based BI solutions for scalability.
 
-📩 Contact Information
-
-📧 Email: esraahassanallam"gmail.com
-🔗 LinkedIn: https://www.linkedin.com/in/esraa-allam/
+📬 Contact Information
+Email: esraahassanallam@gmail.com
+LinkedIn: linkedin.com/in/esraa-allam
 
 ⭐ Contributions & Support
-
 If you find this project valuable, give it a ⭐ and contribute via pull requests!
+Let’s make healthcare data smarter together 💡
