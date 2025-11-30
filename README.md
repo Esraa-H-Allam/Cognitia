@@ -42,7 +42,7 @@ The focus combines **Business Intelligence (Power BI)** and **Machine Learning**
 | Task | Member | Tools |
 |------|---------|-------|
 | Data Collection | [Esraa](linkedin.com/in/esraa-allam) | SQL |
-| Data Cleaning | **Shimaa** | SQL, Power Query |
+| Data Cleaning | [Shimaa](https://www.linkedin.com/in/shimaa-elmetwally/) | SQL, Power Query |
 | Data Visualization | [Samar](https://www.linkedin.com/in/samar-moh456/) & [Samaa](https://www.linkedin.com/in/sama-mwafi-74b061292/) | Power BI |
 | Machine Learning | [Samaa](https://www.linkedin.com/in/sama-mwafi-74b061292/) & [Esraa](linkedin.com/in/esraa-allam)| Python, Scikit-learn |
 | Presentation & Documentation | All Team Members | PowerPoint |
