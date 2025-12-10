@@ -152,19 +152,19 @@ Built multiple Power BI dashboards covering:
 git clone https://github.com/Esraa-H-Allam/Cognitia.git
 cd Cognitia
 
-text
+---
 
 ### 2. Install Dependencies
 
 pip install pandas scikit-learn matplotlib numpy
 
-text
+
 
 Or use the requirements file:
 
 pip install -r requirements.txt
 
-text
+---
 
 ### 3. Load Datasets
 
@@ -175,7 +175,7 @@ Place all CSV files in the `/data` folder:
 ├── appointments.csv
 └── billing_data.csv
 
-text
+---
 
 ### 4. Run Data Preparation
 
@@ -183,15 +183,15 @@ Use Python scripts and Power Query files to clean the data:
 
 python scripts/data_cleaning.py
 
-text
 
+---
 ### 5. Train ML Model
 
 Run the Jupyter notebook to generate appointment predictions:
 
 jupyter notebook notebooks/ml_model_training.ipynb
 
-text
+---
 
 ### 6. Visualize Insights
 
