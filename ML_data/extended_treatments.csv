@@ -1,0 +1,1001 @@
+treatment_id,appointment_id,treatment_type,description,cost,treatment_date
+T001,A001,Chemotherapy,Basic screening,3941.97,2023-08-09
+T002,A002,MRI,Advanced protocol,4158.44,2023-06-09
+T003,A003,MRI,Standard procedure,3731.55,2023-06-28
+T004,A004,MRI,Basic screening,4799.86,2023-09-01
+T005,A005,ECG,Standard procedure,582.05,2023-07-06
+T006,A006,Chemotherapy,Standard procedure,1381.0,2023-06-19
+T007,A007,Chemotherapy,Advanced protocol,534.03,2023-04-09
+T008,A008,Physiotherapy,Basic screening,3413.64,2023-05-24
+T009,A009,Physiotherapy,Standard procedure,4541.14,2023-03-05
+T010,A010,Physiotherapy,Standard procedure,1595.67,2023-01-13
+T011,A011,MRI,Basic screening,4671.66,2023-11-12
+T012,A012,Chemotherapy,Standard procedure,771.2,2023-05-07
+T013,A013,MRI,Standard procedure,4704.96,2023-08-16
+T014,A014,ECG,Basic screening,2082.3,2023-05-25
+T015,A015,Physiotherapy,Basic screening,956.39,2023-01-15
+T016,A016,MRI,Basic screening,2686.42,2023-06-30
+T017,A017,MRI,Basic screening,1655.49,2023-07-11
+T018,A018,ECG,Advanced protocol,1781.93,2023-11-14
+T019,A019,X-Ray,Basic screening,1882.8,2023-02-06
+T020,A020,Chemotherapy,Advanced protocol,4113.62,2023-12-05
+T021,A021,X-Ray,Advanced protocol,2926.23,2023-04-24
+T022,A022,Physiotherapy,Advanced protocol,1900.88,2023-11-14
+T023,A023,MRI,Standard procedure,3246.5,2023-05-09
+T024,A024,ECG,Advanced protocol,3722.68,2023-06-21
+T025,A025,ECG,Advanced protocol,1726.81,2023-02-25
+T026,A026,Chemotherapy,Standard procedure,2360.97,2023-03-17
+T027,A027,X-Ray,Standard procedure,1048.49,2023-11-14
+T028,A028,Chemotherapy,Standard procedure,1315.17,2023-10-29
+T029,A029,MRI,Basic screening,3565.03,2023-06-25
+T030,A030,Chemotherapy,Standard procedure,1316.47,2023-08-29
+T031,A031,ECG,Standard procedure,2863.24,2023-04-04
+T032,A032,ECG,Advanced protocol,3690.71,2023-11-06
+T033,A033,Physiotherapy,Standard procedure,980.95,2023-09-23
+T034,A034,Physiotherapy,Basic screening,3052.9,2023-06-13
+T035,A035,MRI,Standard procedure,1654.53,2023-04-18
+T036,A036,X-Ray,Basic screening,4833.17,2023-01-08
+T037,A037,Chemotherapy,Standard procedure,2675.96,2023-03-28
+T038,A038,MRI,Standard procedure,4126.97,2023-02-23
+T039,A039,Physiotherapy,Standard procedure,2976.02,2023-04-17
+T040,A040,Chemotherapy,Standard procedure,695.36,2023-03-27
+T041,A041,Physiotherapy,Basic screening,3349.18,2023-01-01
+T042,A042,Chemotherapy,Basic screening,4781.32,2023-03-21
+T043,A043,X-Ray,Advanced protocol,3207.25,2023-03-29
+T044,A044,MRI,Basic screening,4186.35,2023-09-20
+T045,A045,Chemotherapy,Standard procedure,4478.93,2023-09-28
+T046,A046,ECG,Advanced protocol,1526.36,2023-12-20
+T047,A047,ECG,Advanced protocol,1454.2,2023-05-02
+T048,A048,Chemotherapy,Advanced protocol,3249.41,2023-01-16
+T049,A049,Chemotherapy,Standard procedure,2349.63,2023-04-30
+T050,A050,Chemotherapy,Basic screening,4279.38,2023-08-16
+T051,A051,ECG,Standard procedure,4550.1,2023-02-04
+T052,A052,ECG,Advanced protocol,2090.4,2023-07-12
+T053,A053,Chemotherapy,Standard procedure,1565.92,2023-02-12
+T054,A054,Physiotherapy,Standard procedure,4012.36,2023-12-16
+T055,A055,Physiotherapy,Basic screening,1736.63,2023-10-06
+T056,A056,X-Ray,Basic screening,4201.76,2023-01-02
+T057,A057,MRI,Advanced protocol,2406.82,2023-04-15
+T058,A058,Physiotherapy,Standard procedure,3503.97,2023-05-09
+T059,A059,ECG,Standard procedure,929.91,2023-03-09
+T060,A060,Physiotherapy,Basic screening,3307.37,2023-11-22
+T061,A061,X-Ray,Standard procedure,2532.95,2023-01-15
+T062,A062,X-Ray,Standard procedure,3139.74,2023-06-14
+T063,A063,MRI,Standard procedure,1256.06,2023-06-29
+T064,A064,Physiotherapy,Basic screening,3815.93,2023-05-31
+T065,A065,ECG,Advanced protocol,4382.59,2023-04-24
+T066,A066,ECG,Advanced protocol,1475.33,2023-05-10
+T067,A067,Chemotherapy,Standard procedure,930.72,2023-08-10
+T068,A068,ECG,Advanced protocol,606.37,2023-03-14
+T069,A069,MRI,Basic screening,3388.87,2023-03-29
+T070,A070,MRI,Basic screening,3231.92,2023-08-26
+T071,A071,ECG,Advanced protocol,2960.14,2023-01-26
+T072,A072,ECG,Advanced protocol,1543.76,2023-06-12
+T073,A073,Chemotherapy,Standard procedure,2259.08,2023-12-24
+T074,A074,ECG,Advanced protocol,3175.14,2023-07-23
+T075,A075,Chemotherapy,Standard procedure,2735.45,2023-05-08
+T076,A076,Chemotherapy,Standard procedure,4945.03,2023-11-27
+T077,A077,ECG,Basic screening,1113.98,2023-12-14
+T078,A078,X-Ray,Basic screening,3628.15,2023-09-17
+T079,A079,X-Ray,Basic screening,2319.43,2023-12-26
+T080,A080,Chemotherapy,Basic screening,2426.9,2023-06-26
+T081,A081,ECG,Advanced protocol,3729.19,2023-01-06
+T082,A082,X-Ray,Basic screening,3615.96,2023-01-20
+T083,A083,ECG,Advanced protocol,4960.65,2023-11-07
+T084,A084,ECG,Basic screening,1077.77,2023-05-31
+T085,A085,ECG,Advanced protocol,968.49,2023-02-18
+T086,A086,Physiotherapy,Standard procedure,3759.52,2023-10-29
+T087,A087,ECG,Advanced protocol,3102.74,2023-10-19
+T088,A088,Physiotherapy,Advanced protocol,1733.72,2023-05-02
+T089,A089,Chemotherapy,Basic screening,857.39,2023-02-14
+T090,A090,X-Ray,Advanced protocol,885.46,2023-06-01
+T091,A091,X-Ray,Standard procedure,4523.86,2023-06-11
+T092,A092,X-Ray,Standard procedure,1363.4,2023-01-30
+T093,A093,X-Ray,Basic screening,1955.17,2023-04-09
+T094,A094,X-Ray,Standard procedure,1519.95,2023-04-08
+T095,A095,X-Ray,Advanced protocol,2097.48,2023-05-09
+T096,A096,X-Ray,Standard procedure,812.41,2023-07-07
+T097,A097,Chemotherapy,Basic screening,2835.77,2023-05-06
+T098,A098,ECG,Advanced protocol,804.26,2023-03-17
+T099,A099,MRI,Basic screening,4101.6,2023-07-04
+T100,A100,Physiotherapy,Advanced protocol,1551.7,2023-03-02
+T101,A101,MRI,Standard procedure,2930.05,2023-09-21
+T102,A102,MRI,Basic screening,4460.36,2023-10-25
+T103,A103,ECG,Basic screening,3428.95,2023-01-24
+T104,A104,ECG,Advanced protocol,2898.31,2023-04-18
+T105,A105,ECG,Basic screening,1959.5,2023-08-14
+T106,A106,X-Ray,Advanced protocol,1998.51,2023-10-29
+T107,A107,Chemotherapy,Advanced protocol,3512.69,2023-04-17
+T108,A108,X-Ray,Advanced protocol,4973.63,2023-04-21
+T109,A109,Chemotherapy,Advanced protocol,3478.28,2023-07-29
+T110,A110,Chemotherapy,Standard procedure,3010.03,2023-07-19
+T111,A111,MRI,Advanced protocol,3787.93,2023-05-22
+T112,A112,MRI,Basic screening,2593.43,2023-01-11
+T113,A113,Chemotherapy,Standard procedure,770.64,2023-11-24
+T114,A114,Chemotherapy,Basic screening,3030.34,2023-08-08
+T115,A115,X-Ray,Standard procedure,4809.31,2023-10-25
+T116,A116,X-Ray,Advanced protocol,1288.86,2023-07-07
+T117,A117,MRI,Standard procedure,3605.02,2023-06-20
+T118,A118,ECG,Standard procedure,1404.2,2023-08-09
+T119,A119,Chemotherapy,Basic screening,2911.22,2023-12-18
+T120,A120,X-Ray,Basic screening,935.04,2023-12-08
+T121,A121,MRI,Advanced protocol,2526.67,2023-04-07
+T122,A122,X-Ray,Standard procedure,3902.73,2023-07-11
+T123,A123,Chemotherapy,Standard procedure,2064.07,2023-02-28
+T124,A124,Chemotherapy,Standard procedure,3492.1,2023-03-16
+T125,A125,Physiotherapy,Advanced protocol,4079.52,2023-02-18
+T126,A126,ECG,Advanced protocol,4672.3,2023-11-02
+T127,A127,Physiotherapy,Advanced protocol,1555.89,2023-11-13
+T128,A128,MRI,Advanced protocol,2296.92,2023-04-15
+T129,A129,X-Ray,Advanced protocol,1185.87,2023-08-25
+T130,A130,MRI,Basic screening,4966.18,2023-02-23
+T131,A131,Chemotherapy,Standard procedure,4671.5,2023-05-11
+T132,A132,Physiotherapy,Standard procedure,2929.81,2023-07-26
+T133,A133,Physiotherapy,Standard procedure,4289.15,2023-03-23
+T134,A134,Physiotherapy,Standard procedure,2844.31,2023-10-17
+T135,A135,MRI,Standard procedure,3306.14,2023-09-09
+T136,A136,Chemotherapy,Standard procedure,901.06,2023-05-13
+T137,A137,X-Ray,Standard procedure,3898.72,2023-10-25
+T138,A138,X-Ray,Standard procedure,1074.71,2023-12-26
+T139,A139,MRI,Basic screening,4217.3,2023-10-10
+T140,A140,Physiotherapy,Standard procedure,4019.13,2023-02-05
+T141,A141,ECG,Basic screening,3689.35,2023-06-15
+T142,A142,MRI,Advanced protocol,662.72,2023-11-01
+T143,A143,MRI,Standard procedure,1864.08,2023-09-21
+T144,A144,Chemotherapy,Advanced protocol,1684.01,2023-08-16
+T145,A145,X-Ray,Advanced protocol,2120.61,2023-11-11
+T146,A146,MRI,Advanced protocol,894.39,2023-01-05
+T147,A147,MRI,Basic screening,4716.31,2023-11-13
+T148,A148,Physiotherapy,Advanced protocol,2992.11,2023-12-06
+T149,A149,Physiotherapy,Advanced protocol,1874.86,2023-07-26
+T150,A150,ECG,Advanced protocol,2286.42,2023-08-16
+T151,A151,Chemotherapy,Standard procedure,2512.41,2023-01-28
+T152,A152,ECG,Standard procedure,3202.67,2023-04-14
+T153,A153,Physiotherapy,Basic screening,2820.56,2023-07-08
+T154,A154,X-Ray,Basic screening,4637.26,2023-03-06
+T155,A155,Physiotherapy,Standard procedure,2736.34,2023-01-03
+T156,A156,Chemotherapy,Basic screening,4964.71,2023-11-22
+T157,A157,Physiotherapy,Standard procedure,4331.41,2023-05-12
+T158,A158,Chemotherapy,Advanced protocol,1438.3,2023-07-12
+T159,A159,Chemotherapy,Advanced protocol,4687.68,2023-04-08
+T160,A160,Chemotherapy,Basic screening,1023.65,2023-12-17
+T161,A161,Chemotherapy,Standard procedure,4178.52,2023-06-17
+T162,A162,Chemotherapy,Standard procedure,2212.8,2023-01-01
+T163,A163,X-Ray,Basic screening,4450.88,2023-06-27
+T164,A164,ECG,Standard procedure,4406.26,2023-07-28
+T165,A165,MRI,Advanced protocol,4126.66,2023-04-04
+T166,A166,ECG,Basic screening,4055.14,2023-01-12
+T167,A167,Chemotherapy,Basic screening,1871.06,2023-11-15
+T168,A168,X-Ray,Standard procedure,864.14,2023-09-29
+T169,A169,Physiotherapy,Basic screening,2313.41,2023-07-24
+T170,A170,X-Ray,Standard procedure,1280.86,2023-03-03
+T171,A171,Chemotherapy,Standard procedure,3627.28,2023-04-18
+T172,A172,X-Ray,Standard procedure,2057.45,2023-03-09
+T173,A173,X-Ray,Standard procedure,4890.25,2023-06-04
+T174,A174,Chemotherapy,Standard procedure,3384.37,2023-10-31
+T175,A175,X-Ray,Basic screening,4201.16,2023-10-22
+T176,A176,MRI,Advanced protocol,1096.36,2023-04-26
+T177,A177,MRI,Advanced protocol,4379.07,2023-08-16
+T178,A178,X-Ray,Basic screening,4652.41,2023-01-17
+T179,A179,Physiotherapy,Basic screening,2691.78,2023-03-08
+T180,A180,Chemotherapy,Advanced protocol,3228.14,2023-01-07
+T181,A181,MRI,Advanced protocol,3941.64,2023-09-03
+T182,A182,Physiotherapy,Advanced protocol,1286.77,2023-04-12
+T183,A183,X-Ray,Advanced protocol,2761.55,2023-02-03
+T184,A184,Physiotherapy,Advanced protocol,2293.98,2023-02-26
+T185,A185,ECG,Standard procedure,1158.68,2023-03-21
+T186,A186,MRI,Basic screening,2153.9,2023-03-27
+T187,A187,X-Ray,Standard procedure,806.78,2023-02-13
+T188,A188,Chemotherapy,Advanced protocol,616.15,2023-04-12
+T189,A189,X-Ray,Advanced protocol,1108.25,2023-10-05
+T190,A190,Chemotherapy,Advanced protocol,4834.02,2023-11-16
+T191,A191,X-Ray,Standard procedure,2972.88,2023-04-12
+T192,A192,Physiotherapy,Standard procedure,4846.2,2023-08-31
+T193,A193,Physiotherapy,Advanced protocol,2446.24,2023-09-15
+T194,A194,Physiotherapy,Standard procedure,1903.17,2023-04-06
+T195,A195,ECG,Standard procedure,2777.64,2023-08-19
+T196,A196,Chemotherapy,Advanced protocol,2477.8,2023-10-26
+T197,A197,Physiotherapy,Standard procedure,975.49,2023-04-01
+T198,A198,ECG,Basic screening,3383.72,2023-05-15
+T199,A199,Chemotherapy,Basic screening,1472.17,2023-05-01
+T200,A200,X-Ray,Basic screening,3288.15,2023-12-30
+T201,A201,Blood Test,Advanced protocol,775.95,2024-09-10
+T202,A202,Ultrasound,Standard procedure,2111.31,2023-01-06
+T203,A203,X-Ray,Standard procedure,1350.08,2024-12-09
+T204,A204,MRI,Advanced protocol,4421.38,2024-12-08
+T205,A205,Blood Test,Advanced protocol,423.7,2023-05-19
+T206,A206,Blood Test,Advanced protocol,401.04,2023-08-03
+T207,A207,CT Scan,Basic screening,3856.48,2023-03-30
+T208,A208,Ultrasound,Advanced protocol,2091.34,2023-01-23
+T209,A209,MRI,Basic screening,2020.87,2023-01-21
+T210,A210,X-Ray,Basic screening,2093.2,2024-08-06
+T211,A211,Blood Test,Standard procedure,229.13,2024-10-07
+T212,A212,X-Ray,Basic screening,952.5,2023-02-07
+T213,A213,Blood Test,Standard procedure,420.26,2024-06-24
+T214,A214,CT Scan,Standard procedure,2777.11,2023-10-02
+T215,A215,X-Ray,Basic screening,2173.97,2024-09-29
+T216,A216,ECG,Standard procedure,1035.33,2023-06-15
+T217,A217,Chemotherapy,Standard procedure,3311.58,2023-08-26
+T218,A218,Chemotherapy,Advanced protocol,2779.21,2023-05-15
+T219,A219,Chemotherapy,Advanced protocol,4346.7,2023-06-15
+T220,A220,Physiotherapy,Basic screening,1177.35,2023-06-27
+T221,A221,MRI,Basic screening,4180.36,2024-05-20
+T222,A222,Blood Test,Standard procedure,735.63,2023-09-25
+T223,A223,CT Scan,Standard procedure,3566.98,2023-03-07
+T224,A224,Physiotherapy,Advanced protocol,3607.6,2024-05-13
+T225,A225,Blood Test,Basic screening,245.92,2023-06-04
+T226,A226,CT Scan,Basic screening,1940.25,2024-04-13
+T227,A227,MRI,Standard procedure,3537.9,2024-07-29
+T228,A228,MRI,Standard procedure,4782.32,2024-01-06
+T229,A229,X-Ray,Standard procedure,1762.14,2023-04-12
+T230,A230,ECG,Advanced protocol,885.29,2023-07-26
+T231,A231,MRI,Standard procedure,4895.48,2023-10-21
+T232,A232,Physiotherapy,Advanced protocol,1761.22,2024-01-05
+T233,A233,X-Ray,Advanced protocol,2090.71,2023-08-22
+T234,A234,Physiotherapy,Advanced protocol,3536.55,2023-01-31
+T235,A235,CT Scan,Advanced protocol,2918.76,2023-11-19
+T236,A236,Ultrasound,Standard procedure,2069.68,2023-02-07
+T237,A237,ECG,Standard procedure,1252.34,2024-03-05
+T238,A238,Chemotherapy,Advanced protocol,3496.68,2023-01-09
+T239,A239,ECG,Advanced protocol,927.37,2024-10-21
+T240,A240,Chemotherapy,Standard procedure,3017.84,2023-07-22
+T241,A241,Ultrasound,Advanced protocol,1020.6,2024-02-04
+T242,A242,X-Ray,Standard procedure,2337.33,2024-06-07
+T243,A243,CT Scan,Basic screening,2163.97,2023-01-29
+T244,A244,Chemotherapy,Advanced protocol,3311.52,2024-03-08
+T245,A245,MRI,Advanced protocol,2863.49,2023-05-07
+T246,A246,Blood Test,Advanced protocol,452.46,2024-04-09
+T247,A247,CT Scan,Advanced protocol,2667.12,2023-10-19
+T248,A248,Chemotherapy,Standard procedure,3351.49,2023-04-18
+T249,A249,CT Scan,Standard procedure,1955.34,2023-04-11
+T250,A250,Blood Test,Basic screening,519.34,2023-03-05
+T251,A251,ECG,Advanced protocol,1085.09,2024-01-14
+T252,A252,Ultrasound,Basic screening,1923.19,2024-10-13
+T253,A253,MRI,Advanced protocol,3459.62,2024-06-01
+T254,A254,CT Scan,Basic screening,2122.65,2024-12-12
+T255,A255,CT Scan,Standard procedure,2375.47,2023-05-02
+T256,A256,CT Scan,Standard procedure,3523.5,2023-02-11
+T257,A257,Chemotherapy,Basic screening,4062.16,2023-11-07
+T258,A258,ECG,Advanced protocol,1027.44,2023-02-19
+T259,A259,Ultrasound,Standard procedure,2492.9,2023-01-03
+T260,A260,Chemotherapy,Standard procedure,3891.1,2024-05-07
+T261,A261,Blood Test,Basic screening,425.17,2024-05-01
+T262,A262,ECG,Standard procedure,1410.68,2024-04-05
+T263,A263,MRI,Basic screening,3187.25,2024-02-01
+T264,A264,Physiotherapy,Basic screening,2783.46,2024-10-23
+T265,A265,ECG,Basic screening,1650.31,2024-10-21
+T266,A266,Ultrasound,Advanced protocol,1494.48,2024-05-02
+T267,A267,Physiotherapy,Standard procedure,3871.51,2023-07-30
+T268,A268,X-Ray,Standard procedure,2834.45,2024-02-16
+T269,A269,MRI,Advanced protocol,4654.27,2023-07-04
+T270,A270,CT Scan,Advanced protocol,3106.88,2023-04-04
+T271,A271,Ultrasound,Basic screening,2260.4,2023-07-07
+T272,A272,Blood Test,Standard procedure,371.77,2024-11-25
+T273,A273,Blood Test,Basic screening,754.35,2024-12-31
+T274,A274,ECG,Standard procedure,932.61,2024-02-27
+T275,A275,CT Scan,Standard procedure,3468.57,2023-07-27
+T276,A276,MRI,Standard procedure,3740.47,2023-04-28
+T277,A277,Ultrasound,Standard procedure,1497.5,2023-03-09
+T278,A278,Chemotherapy,Advanced protocol,3060.48,2024-07-21
+T279,A279,MRI,Advanced protocol,3711.75,2023-11-08
+T280,A280,Ultrasound,Basic screening,1352.53,2023-05-26
+T281,A281,Physiotherapy,Basic screening,2778.71,2024-07-22
+T282,A282,Blood Test,Advanced protocol,254.58,2024-10-30
+T283,A283,CT Scan,Basic screening,3728.9,2024-09-04
+T284,A284,Ultrasound,Advanced protocol,1669.27,2023-02-16
+T285,A285,Physiotherapy,Basic screening,2410.64,2024-02-09
+T286,A286,Physiotherapy,Basic screening,2458.16,2024-09-17
+T287,A287,Physiotherapy,Standard procedure,1337.75,2023-09-09
+T288,A288,MRI,Basic screening,2621.02,2023-01-17
+T289,A289,Blood Test,Standard procedure,347.03,2023-01-05
+T290,A290,Blood Test,Basic screening,678.05,2024-02-07
+T291,A291,Blood Test,Advanced protocol,584.83,2023-12-28
+T292,A292,CT Scan,Basic screening,2234.59,2024-12-14
+T293,A293,MRI,Basic screening,4245.83,2023-01-10
+T294,A294,Ultrasound,Advanced protocol,2492.41,2023-04-03
+T295,A295,Ultrasound,Basic screening,2131.17,2024-01-07
+T296,A296,X-Ray,Advanced protocol,2158.29,2024-10-15
+T297,A297,Chemotherapy,Standard procedure,3702.02,2024-11-06
+T298,A298,Chemotherapy,Standard procedure,4529.16,2023-03-08
+T299,A299,Chemotherapy,Standard procedure,3498.57,2023-07-16
+T300,A300,Blood Test,Standard procedure,672.45,2023-01-03
+T301,A301,MRI,Basic screening,4541.21,2023-10-08
+T302,A302,MRI,Advanced protocol,2506.86,2024-06-13
+T303,A303,Ultrasound,Advanced protocol,1377.72,2024-06-29
+T304,A304,Physiotherapy,Standard procedure,1593.28,2023-03-25
+T305,A305,MRI,Standard procedure,3926.11,2023-09-13
+T306,A306,MRI,Standard procedure,4697.59,2023-01-29
+T307,A307,Blood Test,Basic screening,654.19,2023-04-21
+T308,A308,CT Scan,Standard procedure,3567.58,2023-03-16
+T309,A309,CT Scan,Standard procedure,3598.69,2024-08-15
+T310,A310,X-Ray,Advanced protocol,703.66,2024-12-11
+T311,A311,ECG,Basic screening,1282.67,2024-09-17
+T312,A312,Chemotherapy,Basic screening,4700.43,2023-10-29
+T313,A313,CT Scan,Advanced protocol,2373.65,2023-08-27
+T314,A314,ECG,Advanced protocol,1450.84,2024-04-20
+T315,A315,Blood Test,Advanced protocol,463.92,2024-04-09
+T316,A316,X-Ray,Basic screening,2756.83,2023-01-13
+T317,A317,ECG,Basic screening,1411.17,2024-10-14
+T318,A318,Ultrasound,Standard procedure,1882.5,2023-07-10
+T319,A319,Chemotherapy,Basic screening,3958.08,2024-08-21
+T320,A320,ECG,Advanced protocol,518.1,2023-05-31
+T321,A321,CT Scan,Advanced protocol,3025.77,2023-01-09
+T322,A322,Ultrasound,Standard procedure,1851.38,2024-03-08
+T323,A323,ECG,Standard procedure,1465.78,2023-07-13
+T324,A324,CT Scan,Advanced protocol,2623.09,2024-09-22
+T325,A325,Blood Test,Advanced protocol,301.47,2023-02-13
+T326,A326,Blood Test,Basic screening,490.4,2024-09-30
+T327,A327,Ultrasound,Basic screening,1936.87,2024-02-14
+T328,A328,MRI,Standard procedure,2674.48,2023-01-31
+T329,A329,Physiotherapy,Basic screening,1395.29,2024-10-08
+T330,A330,MRI,Advanced protocol,2590.83,2023-07-22
+T331,A331,Blood Test,Standard procedure,541.64,2024-07-21
+T332,A332,Chemotherapy,Advanced protocol,4614.36,2023-04-14
+T333,A333,Physiotherapy,Advanced protocol,1568.35,2023-08-04
+T334,A334,Chemotherapy,Standard procedure,4066.01,2024-06-23
+T335,A335,CT Scan,Advanced protocol,1701.59,2023-05-14
+T336,A336,MRI,Basic screening,3339.9,2024-09-05
+T337,A337,Physiotherapy,Basic screening,1745.04,2024-07-02
+T338,A338,ECG,Advanced protocol,1904.5,2023-05-10
+T339,A339,Physiotherapy,Basic screening,3175.8,2024-04-26
+T340,A340,Blood Test,Basic screening,224.14,2024-10-22
+T341,A341,X-Ray,Advanced protocol,1404.68,2023-07-03
+T342,A342,Physiotherapy,Advanced protocol,3641.28,2023-10-02
+T343,A343,MRI,Basic screening,3567.67,2023-07-27
+T344,A344,Chemotherapy,Basic screening,3068.97,2024-01-22
+T345,A345,Blood Test,Standard procedure,258.96,2023-05-18
+T346,A346,Chemotherapy,Standard procedure,4475.04,2023-08-24
+T347,A347,MRI,Basic screening,3434.9,2024-04-23
+T348,A348,Blood Test,Basic screening,485.62,2024-01-27
+T349,A349,MRI,Advanced protocol,3768.13,2024-01-03
+T350,A350,Blood Test,Standard procedure,541.6,2023-04-11
+T351,A351,Ultrasound,Basic screening,2023.97,2023-12-08
+T352,A352,Blood Test,Advanced protocol,316.88,2023-07-15
+T353,A353,Blood Test,Basic screening,351.05,2023-10-16
+T354,A354,Ultrasound,Advanced protocol,1260.26,2024-04-28
+T355,A355,ECG,Standard procedure,1260.94,2023-08-03
+T356,A356,X-Ray,Advanced protocol,1468.95,2023-03-29
+T357,A357,Physiotherapy,Standard procedure,1808.45,2024-04-05
+T358,A358,X-Ray,Advanced protocol,1876.13,2023-11-09
+T359,A359,ECG,Standard procedure,509.78,2023-08-19
+T360,A360,Blood Test,Standard procedure,297.88,2024-08-04
+T361,A361,MRI,Standard procedure,4018.93,2024-01-26
+T362,A362,MRI,Standard procedure,3027.3,2023-04-22
+T363,A363,ECG,Basic screening,1668.19,2023-04-17
+T364,A364,Physiotherapy,Basic screening,1913.76,2023-01-28
+T365,A365,X-Ray,Standard procedure,2822.62,2023-08-27
+T366,A366,Blood Test,Basic screening,610.85,2024-01-13
+T367,A367,Physiotherapy,Advanced protocol,3117.23,2023-06-10
+T368,A368,CT Scan,Basic screening,2075.71,2024-02-03
+T369,A369,Ultrasound,Basic screening,2249.01,2024-12-27
+T370,A370,ECG,Standard procedure,1935.06,2024-05-29
+T371,A371,Blood Test,Advanced protocol,557.14,2023-05-27
+T372,A372,Ultrasound,Advanced protocol,1257.95,2024-08-05
+T373,A373,X-Ray,Standard procedure,3309.56,2023-04-04
+T374,A374,X-Ray,Standard procedure,1020.46,2024-09-19
+T375,A375,CT Scan,Advanced protocol,2561.8,2024-04-13
+T376,A376,CT Scan,Standard procedure,2424.05,2023-09-03
+T377,A377,Ultrasound,Standard procedure,809.64,2024-05-20
+T378,A378,Ultrasound,Basic screening,2446.76,2023-04-18
+T379,A379,CT Scan,Advanced protocol,3916.11,2023-09-16
+T380,A380,Blood Test,Standard procedure,211.69,2024-10-16
+T381,A381,Physiotherapy,Basic screening,3084.78,2023-07-19
+T382,A382,X-Ray,Standard procedure,3014.4,2023-12-01
+T383,A383,Chemotherapy,Standard procedure,3568.75,2023-03-26
+T384,A384,Ultrasound,Standard procedure,1748.72,2023-10-13
+T385,A385,Physiotherapy,Basic screening,2937.93,2023-07-01
+T386,A386,Blood Test,Standard procedure,264.1,2024-11-18
+T387,A387,Physiotherapy,Basic screening,1974.09,2023-07-02
+T388,A388,Blood Test,Advanced protocol,555.76,2024-10-12
+T389,A389,Chemotherapy,Advanced protocol,3475.16,2023-02-23
+T390,A390,Blood Test,Basic screening,368.09,2024-01-19
+T391,A391,Ultrasound,Basic screening,972.45,2023-01-29
+T392,A392,CT Scan,Standard procedure,3113.69,2024-11-11
+T393,A393,Blood Test,Standard procedure,266.62,2023-12-01
+T394,A394,ECG,Advanced protocol,610.98,2024-03-14
+T395,A395,Ultrasound,Basic screening,2285.72,2023-06-27
+T396,A396,X-Ray,Advanced protocol,1179.98,2024-04-14
+T397,A397,MRI,Standard procedure,2735.68,2023-08-12
+T398,A398,X-Ray,Advanced protocol,2139.98,2023-09-15
+T399,A399,X-Ray,Advanced protocol,663.37,2023-12-07
+T400,A400,MRI,Advanced protocol,4134.21,2023-01-19
+T401,A401,CT Scan,Standard procedure,4215.31,2024-05-30
+T402,A402,Blood Test,Advanced protocol,730.75,2023-11-13
+T403,A403,ECG,Standard procedure,1202.49,2023-03-03
+T404,A404,Blood Test,Standard procedure,399.81,2024-01-20
+T405,A405,X-Ray,Standard procedure,2350.49,2023-12-03
+T406,A406,Chemotherapy,Basic screening,2797.98,2024-10-25
+T407,A407,Ultrasound,Standard procedure,1473.72,2023-09-06
+T408,A408,Blood Test,Basic screening,699.0,2024-06-17
+T409,A409,Chemotherapy,Advanced protocol,3433.69,2023-03-13
+T410,A410,Ultrasound,Basic screening,2431.64,2023-04-04
+T411,A411,CT Scan,Advanced protocol,2976.03,2024-03-12
+T412,A412,CT Scan,Advanced protocol,1701.33,2024-03-10
+T413,A413,MRI,Advanced protocol,2276.43,2024-10-12
+T414,A414,MRI,Advanced protocol,2474.67,2024-01-22
+T415,A415,MRI,Advanced protocol,4767.49,2023-06-09
+T416,A416,Physiotherapy,Basic screening,3431.48,2023-11-04
+T417,A417,Ultrasound,Standard procedure,1591.72,2024-04-19
+T418,A418,ECG,Advanced protocol,995.64,2023-03-15
+T419,A419,ECG,Advanced protocol,1362.84,2023-01-05
+T420,A420,Blood Test,Advanced protocol,668.67,2024-02-09
+T421,A421,Ultrasound,Basic screening,1482.49,2024-10-18
+T422,A422,X-Ray,Basic screening,2408.7,2024-08-02
+T423,A423,Ultrasound,Basic screening,814.51,2024-10-12
+T424,A424,CT Scan,Standard procedure,1951.48,2023-09-06
+T425,A425,Physiotherapy,Advanced protocol,3125.98,2024-09-11
+T426,A426,CT Scan,Advanced protocol,2873.26,2023-01-13
+T427,A427,Physiotherapy,Advanced protocol,3953.68,2024-06-14
+T428,A428,ECG,Basic screening,1659.49,2024-12-09
+T429,A429,Physiotherapy,Standard procedure,1499.24,2024-02-26
+T430,A430,Chemotherapy,Advanced protocol,4004.8,2023-05-27
+T431,A431,Chemotherapy,Basic screening,3850.19,2023-06-22
+T432,A432,MRI,Standard procedure,4611.67,2024-06-21
+T433,A433,Physiotherapy,Advanced protocol,1589.06,2024-01-19
+T434,A434,X-Ray,Basic screening,1830.42,2024-05-29
+T435,A435,X-Ray,Basic screening,3315.28,2023-03-02
+T436,A436,Physiotherapy,Standard procedure,990.08,2024-10-03
+T437,A437,Blood Test,Basic screening,700.49,2023-03-29
+T438,A438,Ultrasound,Basic screening,1554.72,2024-08-22
+T439,A439,Physiotherapy,Standard procedure,1062.41,2023-09-30
+T440,A440,Blood Test,Standard procedure,319.18,2024-06-18
+T441,A441,Ultrasound,Advanced protocol,2184.65,2023-12-12
+T442,A442,MRI,Basic screening,3520.11,2023-09-03
+T443,A443,MRI,Basic screening,4269.82,2023-12-31
+T444,A444,MRI,Standard procedure,4221.93,2023-05-23
+T445,A445,CT Scan,Advanced protocol,4486.07,2024-04-07
+T446,A446,Ultrasound,Basic screening,1157.56,2024-10-15
+T447,A447,MRI,Advanced protocol,3079.58,2024-11-25
+T448,A448,X-Ray,Advanced protocol,924.78,2023-12-23
+T449,A449,Blood Test,Basic screening,204.35,2024-12-30
+T450,A450,Ultrasound,Standard procedure,2434.67,2023-03-31
+T451,A451,MRI,Standard procedure,3081.18,2023-04-29
+T452,A452,X-Ray,Basic screening,1859.03,2023-06-24
+T453,A453,X-Ray,Basic screening,3499.15,2023-06-14
+T454,A454,MRI,Advanced protocol,3930.75,2024-11-12
+T455,A455,Ultrasound,Standard procedure,826.95,2023-04-03
+T456,A456,X-Ray,Advanced protocol,2477.34,2024-10-21
+T457,A457,CT Scan,Basic screening,1922.21,2023-09-23
+T458,A458,Physiotherapy,Basic screening,2763.11,2024-08-29
+T459,A459,ECG,Advanced protocol,733.64,2024-01-25
+T460,A460,Blood Test,Basic screening,236.71,2024-02-02
+T461,A461,Physiotherapy,Advanced protocol,3081.14,2023-04-20
+T462,A462,CT Scan,Advanced protocol,2744.63,2023-10-31
+T463,A463,ECG,Standard procedure,758.63,2023-05-30
+T464,A464,ECG,Advanced protocol,1714.13,2023-10-08
+T465,A465,ECG,Standard procedure,1818.62,2023-10-26
+T466,A466,MRI,Basic screening,2089.94,2023-08-19
+T467,A467,Physiotherapy,Standard procedure,2232.06,2023-11-03
+T468,A468,CT Scan,Standard procedure,3365.74,2023-12-12
+T469,A469,Chemotherapy,Basic screening,3328.96,2023-03-15
+T470,A470,Blood Test,Basic screening,640.97,2023-04-10
+T471,A471,ECG,Standard procedure,569.75,2024-11-01
+T472,A472,Ultrasound,Advanced protocol,2028.29,2023-05-29
+T473,A473,ECG,Basic screening,650.17,2024-11-25
+T474,A474,CT Scan,Basic screening,1776.37,2023-04-09
+T475,A475,MRI,Basic screening,4906.19,2024-08-30
+T476,A476,Blood Test,Standard procedure,713.68,2023-09-04
+T477,A477,Blood Test,Basic screening,714.15,2024-04-19
+T478,A478,Chemotherapy,Standard procedure,3690.61,2023-01-12
+T479,A479,X-Ray,Basic screening,1536.34,2023-01-24
+T480,A480,CT Scan,Advanced protocol,3505.3,2024-08-30
+T481,A481,MRI,Standard procedure,3478.41,2023-04-12
+T482,A482,Physiotherapy,Basic screening,1623.73,2024-02-08
+T483,A483,ECG,Basic screening,838.33,2023-08-01
+T484,A484,MRI,Advanced protocol,2284.37,2023-01-06
+T485,A485,Ultrasound,Standard procedure,2307.76,2024-08-11
+T486,A486,MRI,Basic screening,2678.67,2023-02-05
+T487,A487,ECG,Advanced protocol,1489.05,2024-03-09
+T488,A488,CT Scan,Advanced protocol,4421.87,2024-06-15
+T489,A489,X-Ray,Basic screening,1551.04,2024-12-12
+T490,A490,CT Scan,Advanced protocol,1935.66,2023-08-31
+T491,A491,Chemotherapy,Advanced protocol,4765.04,2024-09-08
+T492,A492,Ultrasound,Advanced protocol,881.63,2024-09-29
+T493,A493,Physiotherapy,Basic screening,947.26,2024-10-27
+T494,A494,Chemotherapy,Basic screening,2904.71,2024-11-23
+T495,A495,CT Scan,Basic screening,3216.26,2024-10-10
+T496,A496,Blood Test,Standard procedure,312.65,2024-03-05
+T497,A497,Ultrasound,Standard procedure,2487.59,2024-09-10
+T498,A498,Blood Test,Advanced protocol,357.68,2024-12-01
+T499,A499,Blood Test,Basic screening,646.98,2023-12-08
+T500,A500,CT Scan,Standard procedure,4490.06,2023-04-11
+T501,A501,ECG,Standard procedure,1011.47,2024-06-23
+T502,A502,Blood Test,Advanced protocol,473.79,2024-12-18
+T503,A503,MRI,Advanced protocol,4568.64,2023-02-19
+T504,A504,X-Ray,Basic screening,2867.67,2024-05-03
+T505,A505,Ultrasound,Advanced protocol,843.2,2024-11-04
+T506,A506,ECG,Basic screening,840.69,2024-12-25
+T507,A507,Blood Test,Basic screening,272.17,2024-03-25
+T508,A508,X-Ray,Basic screening,3132.59,2024-06-17
+T509,A509,X-Ray,Standard procedure,1864.88,2024-02-21
+T510,A510,MRI,Advanced protocol,2547.84,2023-04-06
+T511,A511,Physiotherapy,Basic screening,3672.04,2023-01-11
+T512,A512,Physiotherapy,Basic screening,1555.63,2024-06-11
+T513,A513,CT Scan,Advanced protocol,3302.81,2024-09-23
+T514,A514,ECG,Advanced protocol,1789.89,2023-09-08
+T515,A515,Chemotherapy,Advanced protocol,3406.64,2023-06-22
+T516,A516,Physiotherapy,Advanced protocol,4025.64,2024-01-11
+T517,A517,ECG,Standard procedure,738.12,2024-05-22
+T518,A518,ECG,Advanced protocol,1451.47,2024-07-06
+T519,A519,Physiotherapy,Advanced protocol,1401.77,2023-10-28
+T520,A520,Ultrasound,Basic screening,1273.32,2024-10-20
+T521,A521,Ultrasound,Standard procedure,1462.61,2023-01-07
+T522,A522,Ultrasound,Standard procedure,1595.61,2023-01-06
+T523,A523,ECG,Advanced protocol,1907.21,2023-04-14
+T524,A524,Chemotherapy,Basic screening,3128.32,2024-02-25
+T525,A525,X-Ray,Basic screening,3276.85,2024-04-26
+T526,A526,MRI,Basic screening,4265.51,2024-07-03
+T527,A527,ECG,Basic screening,1221.4,2023-05-24
+T528,A528,ECG,Basic screening,1086.86,2023-04-24
+T529,A529,ECG,Advanced protocol,1128.51,2023-12-06
+T530,A530,Physiotherapy,Basic screening,3653.29,2023-05-02
+T531,A531,MRI,Basic screening,4890.07,2024-02-14
+T532,A532,X-Ray,Basic screening,3188.65,2023-01-22
+T533,A533,MRI,Advanced protocol,4218.96,2024-11-25
+T534,A534,ECG,Basic screening,1165.07,2023-10-24
+T535,A535,X-Ray,Standard procedure,631.23,2024-06-07
+T536,A536,MRI,Advanced protocol,2933.48,2024-11-13
+T537,A537,MRI,Advanced protocol,3795.34,2023-07-13
+T538,A538,Physiotherapy,Advanced protocol,2346.3,2024-02-15
+T539,A539,MRI,Advanced protocol,4228.74,2024-09-23
+T540,A540,Blood Test,Basic screening,242.24,2024-12-17
+T541,A541,CT Scan,Standard procedure,4348.46,2023-03-04
+T542,A542,Chemotherapy,Standard procedure,4594.94,2024-01-08
+T543,A543,X-Ray,Basic screening,2418.01,2023-07-06
+T544,A544,Ultrasound,Advanced protocol,1086.38,2024-04-28
+T545,A545,Blood Test,Standard procedure,334.78,2024-05-18
+T546,A546,MRI,Basic screening,4992.82,2024-11-30
+T547,A547,CT Scan,Basic screening,4108.08,2024-08-26
+T548,A548,Blood Test,Advanced protocol,777.95,2024-08-21
+T549,A549,Ultrasound,Basic screening,1884.7,2023-02-12
+T550,A550,X-Ray,Advanced protocol,2724.08,2023-03-18
+T551,A551,X-Ray,Advanced protocol,2072.69,2023-07-26
+T552,A552,Ultrasound,Advanced protocol,2221.7,2024-03-04
+T553,A553,CT Scan,Basic screening,1538.78,2024-10-06
+T554,A554,Blood Test,Basic screening,551.47,2024-06-20
+T555,A555,Physiotherapy,Advanced protocol,2331.43,2024-12-14
+T556,A556,X-Ray,Basic screening,3492.18,2024-12-11
+T557,A557,Blood Test,Advanced protocol,563.98,2023-06-19
+T558,A558,Ultrasound,Advanced protocol,1682.24,2024-02-15
+T559,A559,Ultrasound,Basic screening,1822.83,2024-08-08
+T560,A560,MRI,Advanced protocol,2284.74,2023-11-07
+T561,A561,Physiotherapy,Standard procedure,2814.4,2023-06-25
+T562,A562,Ultrasound,Standard procedure,2021.09,2024-10-16
+T563,A563,Chemotherapy,Standard procedure,4117.72,2023-08-04
+T564,A564,Blood Test,Standard procedure,544.01,2023-11-29
+T565,A565,Chemotherapy,Standard procedure,4532.9,2024-09-18
+T566,A566,Ultrasound,Advanced protocol,2343.74,2023-10-14
+T567,A567,Physiotherapy,Advanced protocol,1496.43,2024-10-03
+T568,A568,CT Scan,Basic screening,2376.83,2023-11-29
+T569,A569,Ultrasound,Basic screening,2039.4,2023-08-26
+T570,A570,X-Ray,Standard procedure,2973.27,2023-04-06
+T571,A571,CT Scan,Standard procedure,4420.74,2024-08-06
+T572,A572,Physiotherapy,Standard procedure,2371.82,2023-06-16
+T573,A573,Chemotherapy,Standard procedure,3645.51,2023-03-15
+T574,A574,X-Ray,Basic screening,1207.2,2023-01-13
+T575,A575,CT Scan,Advanced protocol,2703.96,2023-01-14
+T576,A576,CT Scan,Basic screening,4034.16,2023-10-02
+T577,A577,MRI,Standard procedure,3055.41,2024-07-09
+T578,A578,Physiotherapy,Standard procedure,3634.65,2024-07-30
+T579,A579,MRI,Advanced protocol,2271.3,2023-06-08
+T580,A580,Ultrasound,Standard procedure,1857.06,2023-01-22
+T581,A581,ECG,Standard procedure,803.22,2023-05-26
+T582,A582,Blood Test,Standard procedure,402.2,2023-05-31
+T583,A583,Blood Test,Standard procedure,652.86,2024-05-18
+T584,A584,ECG,Standard procedure,523.89,2023-03-20
+T585,A585,Physiotherapy,Advanced protocol,1924.74,2024-09-11
+T586,A586,X-Ray,Advanced protocol,2160.94,2024-11-26
+T587,A587,Ultrasound,Advanced protocol,1982.58,2023-10-05
+T588,A588,Physiotherapy,Basic screening,1198.79,2023-06-02
+T589,A589,Ultrasound,Standard procedure,1047.8,2024-04-02
+T590,A590,CT Scan,Advanced protocol,2561.4,2023-10-13
+T591,A591,ECG,Standard procedure,655.44,2023-12-28
+T592,A592,X-Ray,Advanced protocol,2253.31,2023-05-22
+T593,A593,MRI,Standard procedure,4998.32,2024-07-05
+T594,A594,Blood Test,Basic screening,347.54,2024-08-17
+T595,A595,ECG,Advanced protocol,1989.02,2024-01-06
+T596,A596,Chemotherapy,Standard procedure,3061.17,2023-05-17
+T597,A597,Physiotherapy,Basic screening,3787.95,2023-10-29
+T598,A598,Blood Test,Advanced protocol,686.92,2023-08-18
+T599,A599,ECG,Basic screening,945.19,2023-01-27
+T600,A600,Chemotherapy,Advanced protocol,3708.18,2024-05-03
+T601,A601,Blood Test,Standard procedure,533.79,2023-05-25
+T602,A602,Physiotherapy,Standard procedure,1513.99,2023-06-03
+T603,A603,Ultrasound,Advanced protocol,1778.28,2024-04-26
+T604,A604,Ultrasound,Advanced protocol,1244.54,2023-04-24
+T605,A605,CT Scan,Standard procedure,2793.94,2023-01-12
+T606,A606,CT Scan,Basic screening,2460.46,2024-12-27
+T607,A607,CT Scan,Basic screening,4374.27,2023-05-09
+T608,A608,ECG,Standard procedure,1789.92,2023-07-08
+T609,A609,Physiotherapy,Advanced protocol,2810.56,2023-11-17
+T610,A610,MRI,Advanced protocol,4125.06,2024-01-16
+T611,A611,CT Scan,Basic screening,3921.76,2023-03-21
+T612,A612,Physiotherapy,Advanced protocol,2049.53,2023-06-16
+T613,A613,Physiotherapy,Standard procedure,1788.14,2023-11-13
+T614,A614,Chemotherapy,Standard procedure,4047.01,2023-03-29
+T615,A615,Blood Test,Advanced protocol,461.71,2023-11-19
+T616,A616,ECG,Basic screening,1339.94,2024-05-27
+T617,A617,Chemotherapy,Standard procedure,3691.57,2023-12-06
+T618,A618,ECG,Basic screening,1523.01,2023-01-25
+T619,A619,MRI,Advanced protocol,2828.27,2023-06-05
+T620,A620,X-Ray,Advanced protocol,679.97,2024-11-28
+T621,A621,Blood Test,Standard procedure,622.53,2023-12-14
+T622,A622,ECG,Standard procedure,822.81,2023-09-02
+T623,A623,Blood Test,Standard procedure,523.04,2023-04-10
+T624,A624,X-Ray,Standard procedure,1274.44,2024-05-25
+T625,A625,Ultrasound,Basic screening,2102.71,2023-03-11
+T626,A626,CT Scan,Basic screening,4412.67,2023-07-03
+T627,A627,Chemotherapy,Advanced protocol,4386.17,2024-03-28
+T628,A628,MRI,Basic screening,3841.55,2023-10-21
+T629,A629,Ultrasound,Advanced protocol,1074.05,2024-06-08
+T630,A630,Physiotherapy,Basic screening,4133.28,2024-06-02
+T631,A631,ECG,Basic screening,544.23,2023-06-08
+T632,A632,Blood Test,Advanced protocol,271.7,2023-03-16
+T633,A633,MRI,Basic screening,4838.44,2024-04-24
+T634,A634,Ultrasound,Standard procedure,1448.19,2023-04-21
+T635,A635,Blood Test,Basic screening,708.36,2023-03-08
+T636,A636,ECG,Basic screening,966.79,2023-04-28
+T637,A637,ECG,Advanced protocol,1145.54,2024-10-17
+T638,A638,X-Ray,Standard procedure,863.13,2023-03-05
+T639,A639,X-Ray,Standard procedure,1181.76,2023-08-05
+T640,A640,CT Scan,Advanced protocol,3399.02,2023-03-27
+T641,A641,CT Scan,Standard procedure,3755.45,2024-12-30
+T642,A642,X-Ray,Basic screening,3149.97,2023-02-25
+T643,A643,Chemotherapy,Advanced protocol,2647.87,2023-12-24
+T644,A644,CT Scan,Basic screening,2005.54,2024-12-14
+T645,A645,Chemotherapy,Basic screening,3317.15,2023-03-21
+T646,A646,X-Ray,Basic screening,2920.11,2023-01-15
+T647,A647,CT Scan,Basic screening,4367.14,2024-11-21
+T648,A648,Physiotherapy,Advanced protocol,2948.88,2024-10-11
+T649,A649,ECG,Advanced protocol,827.56,2023-07-12
+T650,A650,CT Scan,Basic screening,4116.29,2023-08-10
+T651,A651,ECG,Advanced protocol,1061.25,2023-01-17
+T652,A652,ECG,Standard procedure,1559.55,2024-02-28
+T653,A653,ECG,Advanced protocol,723.27,2023-04-27
+T654,A654,Blood Test,Basic screening,573.25,2024-07-20
+T655,A655,MRI,Standard procedure,4805.1,2024-11-06
+T656,A656,MRI,Standard procedure,4049.1,2023-03-31
+T657,A657,ECG,Basic screening,1246.48,2023-04-17
+T658,A658,ECG,Advanced protocol,1880.0,2024-11-14
+T659,A659,Blood Test,Advanced protocol,528.79,2023-04-28
+T660,A660,Ultrasound,Standard procedure,2404.82,2024-10-22
+T661,A661,MRI,Standard procedure,2738.67,2024-06-03
+T662,A662,ECG,Basic screening,1940.58,2023-01-05
+T663,A663,Blood Test,Basic screening,676.43,2024-01-19
+T664,A664,Chemotherapy,Standard procedure,2646.56,2024-08-08
+T665,A665,Blood Test,Advanced protocol,624.58,2023-02-22
+T666,A666,MRI,Advanced protocol,2272.86,2024-02-17
+T667,A667,CT Scan,Advanced protocol,3188.99,2023-04-12
+T668,A668,Ultrasound,Advanced protocol,1893.44,2024-10-04
+T669,A669,X-Ray,Standard procedure,992.88,2023-04-06
+T670,A670,Physiotherapy,Standard procedure,4016.02,2023-01-29
+T671,A671,Ultrasound,Standard procedure,1539.74,2023-01-26
+T672,A672,MRI,Standard procedure,2071.5,2023-09-03
+T673,A673,MRI,Standard procedure,3683.76,2024-01-23
+T674,A674,Ultrasound,Standard procedure,1645.94,2024-10-04
+T675,A675,X-Ray,Advanced protocol,2626.81,2024-09-02
+T676,A676,Chemotherapy,Basic screening,4866.95,2023-04-06
+T677,A677,X-Ray,Advanced protocol,2768.77,2024-05-17
+T678,A678,ECG,Advanced protocol,970.48,2023-08-04
+T679,A679,Chemotherapy,Advanced protocol,2569.91,2023-07-04
+T680,A680,X-Ray,Standard procedure,1145.89,2023-12-22
+T681,A681,Chemotherapy,Advanced protocol,4684.26,2023-05-05
+T682,A682,ECG,Advanced protocol,1056.24,2023-08-10
+T683,A683,Chemotherapy,Basic screening,2746.63,2023-05-22
+T684,A684,ECG,Basic screening,1568.62,2023-07-24
+T685,A685,MRI,Advanced protocol,2610.82,2024-03-22
+T686,A686,Physiotherapy,Advanced protocol,3013.39,2024-12-04
+T687,A687,Chemotherapy,Basic screening,4805.22,2023-06-19
+T688,A688,Physiotherapy,Advanced protocol,1283.89,2024-09-02
+T689,A689,X-Ray,Basic screening,3222.75,2024-03-15
+T690,A690,CT Scan,Basic screening,4461.26,2023-06-21
+T691,A691,Physiotherapy,Standard procedure,3928.03,2023-10-28
+T692,A692,Ultrasound,Basic screening,1065.08,2023-04-28
+T693,A693,Physiotherapy,Advanced protocol,3106.16,2023-03-16
+T694,A694,Ultrasound,Advanced protocol,1769.92,2023-05-06
+T695,A695,X-Ray,Basic screening,3326.79,2024-08-04
+T696,A696,X-Ray,Standard procedure,2601.82,2024-09-08
+T697,A697,Ultrasound,Standard procedure,1441.12,2024-09-14
+T698,A698,Physiotherapy,Standard procedure,1736.3,2023-11-24
+T699,A699,Chemotherapy,Advanced protocol,4231.31,2023-10-09
+T700,A700,Chemotherapy,Advanced protocol,4417.82,2024-08-28
+T701,A701,ECG,Advanced protocol,1534.25,2024-10-21
+T702,A702,MRI,Advanced protocol,2343.14,2024-02-17
+T703,A703,ECG,Standard procedure,599.75,2023-03-13
+T704,A704,CT Scan,Basic screening,4330.51,2023-12-21
+T705,A705,X-Ray,Advanced protocol,2673.57,2024-02-07
+T706,A706,Ultrasound,Standard procedure,1711.64,2024-09-24
+T707,A707,X-Ray,Advanced protocol,1358.35,2023-04-18
+T708,A708,MRI,Standard procedure,4468.63,2023-07-15
+T709,A709,Physiotherapy,Basic screening,2730.67,2023-02-14
+T710,A710,Blood Test,Basic screening,276.27,2024-12-05
+T711,A711,Chemotherapy,Standard procedure,3697.05,2023-05-03
+T712,A712,MRI,Basic screening,2114.09,2024-06-18
+T713,A713,Ultrasound,Basic screening,942.13,2023-11-26
+T714,A714,MRI,Basic screening,3307.85,2023-10-31
+T715,A715,CT Scan,Standard procedure,3715.04,2023-03-18
+T716,A716,Blood Test,Advanced protocol,661.48,2024-04-24
+T717,A717,Physiotherapy,Basic screening,3292.2,2023-08-02
+T718,A718,Chemotherapy,Advanced protocol,2535.53,2024-11-02
+T719,A719,ECG,Standard procedure,1789.23,2024-01-30
+T720,A720,X-Ray,Basic screening,1615.34,2023-03-12
+T721,A721,Physiotherapy,Advanced protocol,1086.21,2023-05-31
+T722,A722,Ultrasound,Basic screening,2409.6,2023-07-11
+T723,A723,MRI,Basic screening,2551.89,2023-05-02
+T724,A724,Physiotherapy,Standard procedure,3071.44,2023-06-04
+T725,A725,Blood Test,Basic screening,722.8,2023-10-07
+T726,A726,MRI,Basic screening,3804.98,2023-10-29
+T727,A727,X-Ray,Advanced protocol,1067.18,2024-06-15
+T728,A728,CT Scan,Basic screening,1834.1,2023-04-28
+T729,A729,MRI,Standard procedure,3554.14,2024-06-28
+T730,A730,Chemotherapy,Advanced protocol,4301.21,2023-04-14
+T731,A731,CT Scan,Standard procedure,1615.29,2023-07-28
+T732,A732,MRI,Advanced protocol,2700.99,2023-07-09
+T733,A733,Ultrasound,Basic screening,1756.61,2023-06-24
+T734,A734,Ultrasound,Advanced protocol,1003.39,2024-04-11
+T735,A735,Physiotherapy,Advanced protocol,1016.14,2023-07-01
+T736,A736,MRI,Basic screening,3946.59,2024-04-30
+T737,A737,Blood Test,Advanced protocol,586.87,2023-02-16
+T738,A738,X-Ray,Advanced protocol,2386.54,2023-05-31
+T739,A739,Blood Test,Advanced protocol,342.6,2024-05-17
+T740,A740,Blood Test,Advanced protocol,350.03,2024-01-09
+T741,A741,Blood Test,Standard procedure,751.66,2023-04-26
+T742,A742,ECG,Standard procedure,1304.68,2023-08-14
+T743,A743,CT Scan,Basic screening,1933.22,2024-08-14
+T744,A744,ECG,Standard procedure,1998.71,2023-07-18
+T745,A745,ECG,Standard procedure,1610.01,2024-06-23
+T746,A746,Ultrasound,Standard procedure,1044.77,2023-10-10
+T747,A747,Blood Test,Standard procedure,626.41,2024-03-19
+T748,A748,Physiotherapy,Standard procedure,1312.58,2023-01-09
+T749,A749,CT Scan,Basic screening,4325.64,2024-09-30
+T750,A750,Ultrasound,Standard procedure,1582.99,2023-03-08
+T751,A751,Blood Test,Standard procedure,771.42,2023-10-17
+T752,A752,Blood Test,Standard procedure,402.68,2023-01-06
+T753,A753,Ultrasound,Basic screening,2029.62,2023-12-25
+T754,A754,Physiotherapy,Basic screening,1615.97,2023-05-27
+T755,A755,Physiotherapy,Advanced protocol,1542.19,2023-02-02
+T756,A756,CT Scan,Standard procedure,3144.62,2023-04-11
+T757,A757,Ultrasound,Standard procedure,1894.8,2024-11-26
+T758,A758,Physiotherapy,Standard procedure,1366.39,2023-05-19
+T759,A759,MRI,Advanced protocol,3956.71,2023-11-01
+T760,A760,X-Ray,Advanced protocol,1795.14,2023-04-09
+T761,A761,Physiotherapy,Basic screening,2014.35,2024-04-24
+T762,A762,ECG,Advanced protocol,1076.44,2023-01-29
+T763,A763,Ultrasound,Basic screening,2403.44,2024-09-21
+T764,A764,Chemotherapy,Advanced protocol,3016.13,2023-02-24
+T765,A765,ECG,Standard procedure,1975.45,2024-06-14
+T766,A766,ECG,Advanced protocol,1102.81,2023-12-08
+T767,A767,Physiotherapy,Basic screening,2257.26,2023-05-05
+T768,A768,Blood Test,Basic screening,720.82,2024-07-29
+T769,A769,ECG,Standard procedure,974.32,2024-10-05
+T770,A770,Chemotherapy,Advanced protocol,2742.66,2023-04-28
+T771,A771,MRI,Basic screening,2064.4,2023-09-11
+T772,A772,Chemotherapy,Standard procedure,4631.5,2024-02-05
+T773,A773,CT Scan,Standard procedure,2109.02,2023-08-29
+T774,A774,ECG,Basic screening,961.34,2024-03-18
+T775,A775,MRI,Standard procedure,3869.7,2023-06-24
+T776,A776,CT Scan,Advanced protocol,4213.55,2023-10-24
+T777,A777,Blood Test,Standard procedure,403.17,2024-02-05
+T778,A778,ECG,Standard procedure,954.86,2023-06-01
+T779,A779,ECG,Basic screening,744.89,2023-01-12
+T780,A780,MRI,Advanced protocol,4730.69,2023-05-23
+T781,A781,Ultrasound,Basic screening,1754.83,2024-01-02
+T782,A782,Blood Test,Advanced protocol,789.98,2024-06-09
+T783,A783,Physiotherapy,Basic screening,3090.77,2024-04-15
+T784,A784,ECG,Standard procedure,645.6,2024-10-22
+T785,A785,Chemotherapy,Basic screening,4700.58,2023-05-13
+T786,A786,Blood Test,Standard procedure,486.13,2023-03-11
+T787,A787,Chemotherapy,Advanced protocol,4220.3,2024-05-26
+T788,A788,CT Scan,Standard procedure,3254.67,2023-04-18
+T789,A789,ECG,Standard procedure,1840.98,2024-09-18
+T790,A790,Blood Test,Advanced protocol,540.07,2024-09-13
+T791,A791,CT Scan,Basic screening,4159.47,2024-01-22
+T792,A792,MRI,Basic screening,2404.83,2024-05-17
+T793,A793,X-Ray,Advanced protocol,1741.49,2024-03-20
+T794,A794,ECG,Basic screening,1989.35,2024-10-06
+T795,A795,Physiotherapy,Advanced protocol,1958.31,2023-01-06
+T796,A796,MRI,Standard procedure,3808.44,2024-11-29
+T797,A797,Blood Test,Basic screening,573.12,2024-08-07
+T798,A798,Ultrasound,Basic screening,1420.87,2023-03-10
+T799,A799,X-Ray,Basic screening,2088.93,2023-05-11
+T800,A800,Chemotherapy,Standard procedure,3296.42,2023-08-25
+T801,A801,ECG,Basic screening,1474.11,2023-10-24
+T802,A802,X-Ray,Standard procedure,1901.9,2023-10-22
+T803,A803,Ultrasound,Standard procedure,868.77,2024-02-13
+T804,A804,Blood Test,Advanced protocol,248.15,2023-09-27
+T805,A805,Chemotherapy,Basic screening,4680.1,2023-07-25
+T806,A806,Chemotherapy,Advanced protocol,3934.13,2024-11-10
+T807,A807,X-Ray,Standard procedure,1178.96,2023-12-21
+T808,A808,Blood Test,Standard procedure,433.04,2023-05-13
+T809,A809,X-Ray,Advanced protocol,1687.91,2024-06-03
+T810,A810,CT Scan,Advanced protocol,4060.88,2023-08-22
+T811,A811,Ultrasound,Standard procedure,2002.38,2024-11-29
+T812,A812,ECG,Standard procedure,1578.68,2024-01-22
+T813,A813,Physiotherapy,Standard procedure,1829.42,2023-04-29
+T814,A814,MRI,Standard procedure,4756.33,2023-12-18
+T815,A815,MRI,Advanced protocol,4740.03,2023-08-21
+T816,A816,MRI,Basic screening,4432.27,2023-02-28
+T817,A817,MRI,Basic screening,2223.24,2023-02-14
+T818,A818,CT Scan,Basic screening,1962.02,2024-09-12
+T819,A819,Physiotherapy,Basic screening,3750.18,2024-07-10
+T820,A820,Chemotherapy,Advanced protocol,2533.62,2024-01-11
+T821,A821,CT Scan,Advanced protocol,1711.15,2023-11-23
+T822,A822,Blood Test,Advanced protocol,724.04,2024-02-25
+T823,A823,MRI,Advanced protocol,2365.94,2023-05-21
+T824,A824,ECG,Basic screening,1877.0,2023-05-06
+T825,A825,MRI,Basic screening,2275.11,2024-10-27
+T826,A826,MRI,Basic screening,3298.91,2023-10-04
+T827,A827,Physiotherapy,Basic screening,1065.0,2023-10-13
+T828,A828,MRI,Standard procedure,2961.21,2024-01-29
+T829,A829,Physiotherapy,Standard procedure,3597.92,2024-11-06
+T830,A830,Blood Test,Advanced protocol,623.76,2023-01-27
+T831,A831,Blood Test,Standard procedure,638.94,2023-01-29
+T832,A832,Chemotherapy,Standard procedure,2962.32,2023-04-22
+T833,A833,Chemotherapy,Basic screening,2939.63,2023-06-16
+T834,A834,Physiotherapy,Standard procedure,1374.85,2023-10-15
+T835,A835,Physiotherapy,Advanced protocol,1309.23,2023-12-12
+T836,A836,MRI,Basic screening,2561.14,2024-11-06
+T837,A837,CT Scan,Basic screening,1987.27,2024-08-05
+T838,A838,X-Ray,Advanced protocol,1795.62,2023-01-18
+T839,A839,X-Ray,Basic screening,1836.92,2024-10-15
+T840,A840,CT Scan,Advanced protocol,2222.31,2023-10-11
+T841,A841,Chemotherapy,Advanced protocol,4726.39,2023-07-04
+T842,A842,X-Ray,Standard procedure,2787.46,2023-08-21
+T843,A843,MRI,Basic screening,2188.35,2024-11-01
+T844,A844,CT Scan,Advanced protocol,1681.21,2023-02-12
+T845,A845,Ultrasound,Basic screening,1945.86,2023-01-17
+T846,A846,Blood Test,Basic screening,786.3,2023-12-25
+T847,A847,MRI,Standard procedure,3764.42,2023-08-31
+T848,A848,CT Scan,Advanced protocol,3543.24,2024-10-19
+T849,A849,MRI,Advanced protocol,2787.31,2023-12-10
+T850,A850,CT Scan,Standard procedure,2574.34,2023-06-14
+T851,A851,Blood Test,Standard procedure,499.82,2023-04-19
+T852,A852,Blood Test,Standard procedure,527.55,2024-08-19
+T853,A853,Physiotherapy,Basic screening,2837.86,2023-08-18
+T854,A854,Chemotherapy,Advanced protocol,3382.24,2024-06-24
+T855,A855,Blood Test,Standard procedure,394.62,2023-11-21
+T856,A856,Ultrasound,Standard procedure,2276.76,2023-09-06
+T857,A857,Blood Test,Standard procedure,291.61,2023-04-29
+T858,A858,Ultrasound,Standard procedure,2414.38,2023-12-27
+T859,A859,ECG,Standard procedure,1072.19,2024-04-04
+T860,A860,ECG,Standard procedure,1048.57,2024-02-22
+T861,A861,Ultrasound,Advanced protocol,2339.12,2023-11-18
+T862,A862,ECG,Advanced protocol,1919.06,2024-08-12
+T863,A863,Physiotherapy,Basic screening,954.08,2023-06-20
+T864,A864,Blood Test,Basic screening,362.53,2023-02-04
+T865,A865,Physiotherapy,Basic screening,2541.16,2024-06-11
+T866,A866,ECG,Standard procedure,1744.67,2024-02-16
+T867,A867,X-Ray,Basic screening,1150.84,2023-12-11
+T868,A868,Blood Test,Standard procedure,461.06,2023-12-30
+T869,A869,ECG,Standard procedure,1953.65,2024-05-03
+T870,A870,Chemotherapy,Standard procedure,4903.6,2024-08-30
+T871,A871,MRI,Standard procedure,4118.07,2023-06-30
+T872,A872,X-Ray,Basic screening,1281.94,2023-11-01
+T873,A873,Blood Test,Basic screening,449.81,2024-01-29
+T874,A874,Chemotherapy,Standard procedure,4078.77,2024-03-16
+T875,A875,CT Scan,Advanced protocol,2431.84,2023-10-19
+T876,A876,Ultrasound,Advanced protocol,1007.14,2023-08-18
+T877,A877,ECG,Advanced protocol,922.85,2023-08-26
+T878,A878,CT Scan,Advanced protocol,4092.29,2023-01-29
+T879,A879,CT Scan,Advanced protocol,4411.29,2023-01-27
+T880,A880,MRI,Basic screening,3341.23,2024-04-09
+T881,A881,Ultrasound,Basic screening,1156.08,2023-09-27
+T882,A882,CT Scan,Advanced protocol,2200.32,2023-08-16
+T883,A883,CT Scan,Advanced protocol,4247.21,2023-10-10
+T884,A884,Blood Test,Standard procedure,533.0,2024-03-19
+T885,A885,CT Scan,Advanced protocol,2083.13,2024-10-11
+T886,A886,ECG,Standard procedure,1672.39,2023-08-14
+T887,A887,Physiotherapy,Advanced protocol,2856.35,2023-07-11
+T888,A888,Physiotherapy,Basic screening,2512.34,2024-06-12
+T889,A889,Blood Test,Basic screening,388.08,2024-05-17
+T890,A890,MRI,Standard procedure,4250.58,2024-12-05
+T891,A891,CT Scan,Basic screening,3087.71,2024-06-27
+T892,A892,Blood Test,Advanced protocol,740.26,2024-05-16
+T893,A893,X-Ray,Basic screening,1903.51,2023-10-30
+T894,A894,Physiotherapy,Standard procedure,3249.3,2023-11-30
+T895,A895,CT Scan,Basic screening,2921.24,2023-11-23
+T896,A896,Physiotherapy,Advanced protocol,910.08,2024-05-15
+T897,A897,CT Scan,Advanced protocol,2947.66,2024-06-03
+T898,A898,ECG,Standard procedure,1935.0,2024-02-26
+T899,A899,Blood Test,Standard procedure,562.86,2023-10-02
+T900,A900,Physiotherapy,Advanced protocol,1521.04,2024-04-03
+T901,A901,MRI,Standard procedure,4200.26,2024-10-02
+T902,A902,Physiotherapy,Advanced protocol,3536.2,2023-01-22
+T903,A903,X-Ray,Basic screening,2893.06,2024-11-01
+T904,A904,Ultrasound,Advanced protocol,2191.6,2023-06-10
+T905,A905,Chemotherapy,Standard procedure,3152.47,2024-01-18
+T906,A906,ECG,Standard procedure,537.93,2023-01-21
+T907,A907,Ultrasound,Basic screening,1426.67,2023-06-10
+T908,A908,ECG,Standard procedure,1438.83,2023-10-06
+T909,A909,ECG,Advanced protocol,1166.21,2023-03-28
+T910,A910,CT Scan,Basic screening,4310.71,2024-07-08
+T911,A911,Blood Test,Standard procedure,318.67,2023-11-28
+T912,A912,Blood Test,Standard procedure,297.74,2023-07-27
+T913,A913,ECG,Standard procedure,1934.16,2024-03-15
+T914,A914,MRI,Basic screening,4603.21,2024-12-20
+T915,A915,Blood Test,Standard procedure,285.05,2024-02-08
+T916,A916,Ultrasound,Advanced protocol,843.29,2024-08-14
+T917,A917,Ultrasound,Advanced protocol,1350.6,2024-05-03
+T918,A918,ECG,Standard procedure,1419.62,2023-04-08
+T919,A919,Chemotherapy,Advanced protocol,3207.27,2023-03-27
+T920,A920,Chemotherapy,Advanced protocol,2639.65,2023-03-02
+T921,A921,ECG,Standard procedure,595.82,2023-06-04
+T922,A922,MRI,Basic screening,2454.71,2024-12-07
+T923,A923,ECG,Advanced protocol,852.52,2023-11-17
+T924,A924,CT Scan,Standard procedure,2514.47,2024-06-10
+T925,A925,Ultrasound,Standard procedure,2076.45,2024-01-20
+T926,A926,Blood Test,Standard procedure,527.07,2023-06-20
+T927,A927,Ultrasound,Advanced protocol,2142.54,2023-06-24
+T928,A928,ECG,Advanced protocol,1734.27,2024-02-13
+T929,A929,Physiotherapy,Standard procedure,1424.9,2024-06-19
+T930,A930,X-Ray,Basic screening,1293.87,2024-06-19
+T931,A931,Chemotherapy,Basic screening,4107.26,2024-04-28
+T932,A932,Physiotherapy,Standard procedure,1039.9,2023-01-11
+T933,A933,Physiotherapy,Basic screening,4034.89,2023-01-06
+T934,A934,ECG,Advanced protocol,979.19,2023-12-05
+T935,A935,Ultrasound,Advanced protocol,1939.45,2023-03-10
+T936,A936,Chemotherapy,Advanced protocol,4413.84,2023-07-17
+T937,A937,Blood Test,Basic screening,601.79,2023-09-18
+T938,A938,Ultrasound,Advanced protocol,915.53,2023-04-16
+T939,A939,Physiotherapy,Advanced protocol,1018.82,2023-05-10
+T940,A940,Physiotherapy,Advanced protocol,2521.83,2024-09-22
+T941,A941,CT Scan,Advanced protocol,1741.88,2023-08-10
+T942,A942,CT Scan,Advanced protocol,4195.74,2023-01-01
+T943,A943,ECG,Standard procedure,819.17,2024-03-11
+T944,A944,Chemotherapy,Advanced protocol,4360.63,2023-09-04
+T945,A945,X-Ray,Standard procedure,2213.16,2023-11-16
+T946,A946,Ultrasound,Basic screening,2219.2,2023-06-20
+T947,A947,X-Ray,Standard procedure,1167.74,2024-05-16
+T948,A948,X-Ray,Standard procedure,945.59,2023-01-26
+T949,A949,X-Ray,Standard procedure,683.57,2024-09-23
+T950,A950,Ultrasound,Basic screening,1114.21,2023-07-20
+T951,A951,Chemotherapy,Standard procedure,4511.59,2023-12-03
+T952,A952,Physiotherapy,Basic screening,3407.21,2023-02-04
+T953,A953,X-Ray,Advanced protocol,2555.2,2023-10-08
+T954,A954,X-Ray,Standard procedure,1944.96,2024-05-17
+T955,A955,Physiotherapy,Advanced protocol,3837.68,2023-01-30
+T956,A956,X-Ray,Basic screening,2082.19,2024-03-05
+T957,A957,X-Ray,Basic screening,1227.63,2023-04-10
+T958,A958,ECG,Standard procedure,809.53,2023-12-07
+T959,A959,Ultrasound,Advanced protocol,1356.51,2024-06-12
+T960,A960,Ultrasound,Advanced protocol,2081.56,2023-07-17
+T961,A961,Blood Test,Standard procedure,536.5,2023-06-26
+T962,A962,X-Ray,Advanced protocol,3086.34,2023-06-27
+T963,A963,Physiotherapy,Basic screening,2934.02,2023-05-01
+T964,A964,Chemotherapy,Basic screening,4048.19,2023-04-01
+T965,A965,Chemotherapy,Standard procedure,4825.4,2024-08-28
+T966,A966,X-Ray,Standard procedure,1706.12,2024-04-16
+T967,A967,ECG,Basic screening,580.31,2023-11-14
+T968,A968,Physiotherapy,Advanced protocol,1529.59,2024-08-01
+T969,A969,Ultrasound,Advanced protocol,2289.96,2023-07-01
+T970,A970,MRI,Standard procedure,3252.46,2023-12-30
+T971,A971,Chemotherapy,Standard procedure,4426.11,2024-08-22
+T972,A972,MRI,Standard procedure,2425.51,2024-10-23
+T973,A973,Blood Test,Basic screening,272.2,2023-04-03
+T974,A974,Chemotherapy,Standard procedure,2936.45,2023-09-25
+T975,A975,MRI,Basic screening,4174.43,2024-04-23
+T976,A976,Blood Test,Advanced protocol,616.95,2023-11-27
+T977,A977,X-Ray,Standard procedure,665.42,2024-05-01
+T978,A978,Blood Test,Basic screening,638.86,2023-06-16
+T979,A979,ECG,Basic screening,597.74,2024-08-30
+T980,A980,Ultrasound,Basic screening,863.17,2023-09-16
+T981,A981,Ultrasound,Standard procedure,1501.12,2023-11-04
+T982,A982,Chemotherapy,Advanced protocol,4743.52,2023-10-03
+T983,A983,MRI,Standard procedure,4129.71,2023-11-04
+T984,A984,Blood Test,Basic screening,681.16,2023-05-14
+T985,A985,Chemotherapy,Advanced protocol,3179.91,2023-12-21
+T986,A986,Physiotherapy,Basic screening,3175.93,2023-07-25
+T987,A987,Chemotherapy,Advanced protocol,2610.31,2023-08-30
+T988,A988,Ultrasound,Advanced protocol,2418.65,2024-12-02
+T989,A989,Blood Test,Basic screening,629.34,2023-12-19
+T990,A990,Chemotherapy,Standard procedure,3410.09,2024-11-15
+T991,A991,CT Scan,Standard procedure,3962.14,2023-11-22
+T992,A992,ECG,Standard procedure,1487.9,2024-09-03
+T993,A993,CT Scan,Advanced protocol,3153.07,2023-08-16
+T994,A994,ECG,Standard procedure,1602.79,2023-12-15
+T995,A995,CT Scan,Standard procedure,2021.89,2023-05-22
+T996,A996,Ultrasound,Standard procedure,1594.72,2023-04-06
+T997,A997,CT Scan,Standard procedure,1942.9,2023-11-15
+T998,A998,Blood Test,Advanced protocol,525.36,2023-07-03
+T999,A999,CT Scan,Standard procedure,1759.34,2023-12-21
+T1000,A1000,X-Ray,Basic screening,1565.13,2023-11-23

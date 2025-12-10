@@ -1,0 +1,51 @@
+doctor_id,first_name,last_name,specialization,phone_number,years_experience,hospital_branch,email
+D001,David,Taylor,Dermatology,8322010158,17,Westside Clinic,dr.david.taylor@hospital.com
+D002,Jane,Davis,Pediatrics,9004382050,24,Eastside Clinic,dr.jane.davis@hospital.com
+D003,Jane,Smith,Pediatrics,8737740598,19,Eastside Clinic,dr.jane.smith@hospital.com
+D004,David,Jones,Pediatrics,6594221991,28,Central Hospital,dr.david.jones@hospital.com
+D005,Sarah,Taylor,Dermatology,9118538547,26,Central Hospital,dr.sarah.taylor@hospital.com
+D006,Alex,Davis,Pediatrics,6570137231,23,Central Hospital,dr.alex.davis@hospital.com
+D007,Robert,Davis,Oncology,8217493115,26,Westside Clinic,dr.robert.davis@hospital.com
+D008,Linda,Brown,Dermatology,9069162601,5,Westside Clinic,dr.linda.brown@hospital.com
+D009,Sarah,Smith,Pediatrics,7387087517,26,Central Hospital,dr.sarah.smith@hospital.com
+D010,Linda,Wilson,Oncology,6176383634,21,Eastside Clinic,dr.linda.wilson@hospital.com
+D011,Karen,Brown,Dermatology,4332181960,2,Central Hospital,dr.karen.brown@hospital.com
+D012,Emily,Davis,Neurology,9083863794,1,Eastside Clinic,dr.emily.davis@hospital.com
+D013,Nancy,Thomas,Oncology,4235116155,17,Central Hospital,dr.nancy.thomas@hospital.com
+D014,Daniel,Moore,Neurology,1618495931,3,Eastside Clinic,dr.daniel.moore@hospital.com
+D015,Lisa,Martinez,Dermatology,3164752553,18,Central Hospital,dr.lisa.martinez@hospital.com
+D016,Thomas,Harris,Pediatrics,8327648350,15,Central Hospital,dr.thomas.harris@hospital.com
+D017,James,Taylor,Oncology,1395376724,9,Eastside Clinic,dr.james.taylor@hospital.com
+D018,Daniel,Lee,Neurology,4969653287,6,Central Hospital,dr.daniel.lee@hospital.com
+D019,Robert,Jones,Orthopedics,2691669784,1,Central Hospital,dr.robert.jones@hospital.com
+D020,Charles,Lee,Oncology,5146270482,33,Central Hospital,dr.charles.lee@hospital.com
+D021,Karen,Martinez,Orthopedics,8932528809,21,Northside Medical Center,dr.karen.martinez@hospital.com
+D022,David,Brown,Oncology,4303911718,9,Eastside Clinic,dr.david.brown@hospital.com
+D023,Charles,Jackson,Neurology,2489638346,24,Northside Medical Center,dr.charles.jackson@hospital.com
+D024,Susan,Moore,Dermatology,3315098393,1,Central Hospital,dr.susan.moore@hospital.com
+D025,Nancy,Harris,Dermatology,3105183473,35,Eastside Clinic,dr.nancy.harris@hospital.com
+D026,Daniel,Thompson,Neurology,7376311656,27,Northside Medical Center,dr.daniel.thompson@hospital.com
+D027,Daniel,Johnson,Orthopedics,1065133387,9,Northside Medical Center,dr.daniel.johnson@hospital.com
+D028,Alex,Rodriguez,Cardiology,3178108013,11,Northside Medical Center,dr.alex.rodriguez@hospital.com
+D029,Richard,Jackson,Pediatrics,6026064746,32,Eastside Clinic,dr.richard.jackson@hospital.com
+D030,Emily,Martinez,Pediatrics,0980500978,34,Eastside Clinic,dr.emily.martinez@hospital.com
+D031,Jane,Martin,Dermatology,2191361939,3,Central Hospital,dr.jane.martin@hospital.com
+D032,William,Clark,Neurology,9854353462,20,Northside Medical Center,dr.william.clark@hospital.com
+D033,James,Williams,Dermatology,7991183842,23,Central Hospital,dr.james.williams@hospital.com
+D034,Laura,Anderson,Oncology,2784980841,9,Westside Clinic,dr.laura.anderson@hospital.com
+D035,Robert,Brown,Orthopedics,8244935348,32,Westside Clinic,dr.robert.brown@hospital.com
+D036,Jane,Williams,Orthopedics,6400524278,28,Central Hospital,dr.jane.williams@hospital.com
+D037,Robert,Williams,Orthopedics,2805982620,20,Westside Clinic,dr.robert.williams@hospital.com
+D038,Jane,Anderson,Pediatrics,3158692322,27,Central Hospital,dr.jane.anderson@hospital.com
+D039,Alex,Walker,Oncology,6342160733,30,Westside Clinic,dr.alex.walker@hospital.com
+D040,John,Davis,Pediatrics,0365414586,35,Westside Clinic,dr.john.davis@hospital.com
+D041,David,Brown,Oncology,2940196556,33,Central Hospital,dr.david.brown@hospital.com
+D042,Jennifer,Thompson,Pediatrics,4060883561,22,Westside Clinic,dr.jennifer.thompson@hospital.com
+D043,Charles,Brown,Orthopedics,4846564823,27,Northside Medical Center,dr.charles.brown@hospital.com
+D044,Charles,Walker,Pediatrics,9946804436,21,Northside Medical Center,dr.charles.walker@hospital.com
+D045,Elizabeth,Moore,Orthopedics,3872148951,16,Westside Clinic,dr.elizabeth.moore@hospital.com
+D046,Laura,Miller,Pediatrics,0037917693,25,Northside Medical Center,dr.laura.miller@hospital.com
+D047,Jennifer,Davis,Pediatrics,0163287083,8,Northside Medical Center,dr.jennifer.davis@hospital.com
+D048,Linda,Moore,Orthopedics,8895798687,11,Northside Medical Center,dr.linda.moore@hospital.com
+D049,Elizabeth,Rodriguez,Pediatrics,4873471434,22,Westside Clinic,dr.elizabeth.rodriguez@hospital.com
+D050,Joseph,Williams,Pediatrics,2362316658,30,Northside Medical Center,dr.joseph.williams@hospital.com
