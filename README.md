@@ -61,12 +61,11 @@ This unified dataset supports BI visualization and ML prediction.
 
 | Functionality | Tools |
 |---------------|-------|
-| **Data Cleaning** | Power Query, Python (pandas) |
+| **Data Cleaning** | Power Bi, Python (pandas) |
 | **Data Processing** | Python |
 | **Machine Learning** | scikit-learn |
 | **Visualization** | Power BI |
-| **Documentation** | PowerPoint, Markdown |
-| **Collaboration** | GitHub |
+
 
 ---
 
@@ -138,10 +137,10 @@ Built multiple Power BI dashboards covering:
 | Role | Member | Responsibilities |
 |------|--------|------------------|
 | **Project Lead / Documentation** | Esraa Allam | Manage workflow, support ML, create presentation |
-| **Data Cleaning & Integration** | Shimaa | Clean hospital datasets using Power Query |
-| **Data Visualization** | Samar | Build all Power BI dashboards |
-| **Machine Learning Modeling** | Sama & Esraa | Train ML models and evaluate results |
-| **Analysis Support** | Esraa | Write insights, summaries, and project explanations |
+| **Data Cleaning & Integration** | Shimaa | Clean hospital datasets using Power BI |
+| **Data Visualization** | Samar & Sama | Build all Power BI dashboards |
+| **Machine Learning Modeling** | Esraa | Train ML models and evaluate results |
+| **Analysis Support** | All team members | Write insights, summaries, and project explanations |
 
 ---
 
@@ -216,7 +215,7 @@ Load the cleaned dataset in Power BI to view interactive dashboards.
 **Esraa Allam**  
 📧 **Email**: [esraahassanallam@gmail.com](mailto:esraahassanallam@gmail.com)  
 🔗 **LinkedIn**: [linkedin.com/in/esraa-allam](https://linkedin.com/in/esraa-allam)  
-🐙 **GitHub**: [@Esraa-H-Allam](https://github.com/Esraa-H-Allam)
+
 
 ### Team Cognitia
 🌐 **Repository**: [github.com/Esraa-H-Allam/Cognitia](https://github.com/Esraa-H-Allam/Cognitia)
@@ -227,18 +226,6 @@ Load the cleaned dataset in Power BI to view interactive dashboards.
 
 If you find this project helpful, please ⭐ the repository and feel free to contribute with improvements!
 
-### How to Contribute
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-### Found a Bug?
-
-Please open an issue on GitHub with detailed information about the problem.
-
 ---
 
 ## © Copyright & Licensing
@@ -248,16 +235,6 @@ Please open an issue on GitHub with detailed information about the problem.
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
 
----
 
-<div align="center">
-  
-**Made with ❤️ by Team Cognitia**
 
-![Healthcare](https://img.shields.io/badge/Domain-Healthcare-red)
-![Analytics](https://img.shields.io/badge/Focus-Analytics-orange)
-![Prediction](https://img.shields.io/badge/ML-Prediction-green)
 
-[⬆ Back to Top](#-hospital-performance-analytics--appointment-completion-prediction)
-
-</div>
