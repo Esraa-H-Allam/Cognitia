@@ -1,153 +1,212 @@
-📊 Hospital Performance Analytics & Appointment Prediction
-📘 Project Overview
-This project integrates hospital management data with machine learning to analyze operational efficiency, financial performance, and patient care quality. We built interactive Power BI dashboards to visualize hospital KPIs and developed a predictive model to reduce appointment no-shows using Scikit-learn.​
+🏥 Project Title
 
-The focus combines Business Intelligence (Power BI) and Machine Learning to deliver actionable insights and predictive analytics for healthcare management.
+Hospital Performance Analytics & Appointment Completion Prediction
 
-🎯 Objectives
-Analyze hospital operations across multiple branches and specializations
+🔍 Executive Summary
 
-Identify patterns impacting patient lifetime value and hospital revenue
+This project combines Business Intelligence (BI) and Machine Learning to analyze hospital operations, financial performance, doctor activities, patient behavior, and appointment completion patterns.
+By integrating multiple hospital datasets, the project provides decision-makers with clear insights into patient lifetime value, doctor performance, revenue trends, and operational efficiency.
+The project also includes a predictive machine learning model that estimates whether a patient will complete their appointment, helping hospitals reduce no-show rates and improve service quality.
 
-Predict appointment completion rates to reduce no-shows
+📖 Table of Contents
 
-Visualize operational, clinical, and financial KPIs with Power BI dashboards
+Project Objectives
 
-🧰 Tools & Technologies
-Category	Tools
-Data Collection & Cleaning	Python, CSV files
-Data Analysis & Preprocessing	Python (Pandas, NumPy)
-Machine Learning	Scikit-learn
-Visualization & Reporting	Power BI
+Dataset Overview
+
+Technologies & Tools
+
+Methodology
+
+Key Performance Indicators (KPIs)
+
+Project Timeline & Milestones
+
+Deliverables
+
+Roles & Responsibilities
+
+Setup & Execution Guide
+
+Future Enhancements
+
+Contact Information
+
+Contributions & Support
+
+Copyright & Licensing
+
+🏆 Project Objectives
+
+Analyze hospital operations to understand patients, doctors, treatments, and financial patterns.
+
+Measure patient lifetime value (LTV) and identify key patient engagement trends.
+
+Evaluate doctor performance, specialization distribution, and treatment load.
+
+Visualize hospital insights using interactive Power BI dashboards.
+
+Build a predictive ML model to estimate whether an appointment will be completed or not.
+
+Support hospital management through clear, data-driven insights.
+
+📁 Dataset Overview
+Dataset 1: Hospital Operational Dataset
+
+Contains patient demographics, appointment dates, visit frequency, doctor details, treatments, and billing information.
+
+Dataset 2: Appointment Completion Dataset
+
+Includes scheduled vs completed appointments with related patient and doctor information.
+
+Data Integration
+
+All datasets were merged to create a complete view of hospital operations, including:
+
+Patients
+
+Doctors
+
+Treatments
+
+Billing and payments
+
+Appointment behaviors
+
+This unified dataset supports BI visualization and ML prediction.
+
+🛠 Technologies & Tools
+Functionality	Tools
+Data Cleaning	Power Query, Python (pandas)
+Data Processing	Python
+Machine Learning	scikit-learn
+Visualization	Power BI
+Documentation	PowerPoint
 Collaboration	GitHub
-📂 Datasets
-Hospital Management Dataset (Extended from 200 to 1,000+ records)​
+🔬 Methodology
+1. Data Preparation
 
-Doctors: 50 doctors across 3 specializations
+Cleaned and structured hospital datasets.
 
-Patients: 500 patients with insurance and demographic data
+Fixed missing values and inconsistent entries.
 
-Appointments: 1,000 appointment records
+Performed feature engineering for LTV, appointment behavior, and doctor metrics.
 
-Treatments: 1,000 treatment records (8 types)
+2. Business Intelligence & Dashboards
 
-Billing: 1,000 billing transactions
+Built multiple Power BI dashboards covering:
 
-👥 Team Roles
-Task	Member	Tools
-Data Generation & Extension	[Your Name]	Python, Pandas
-Data Preprocessing & Feature Engineering	[Your Name]	Python, NumPy
-Power BI Dashboard Design	[Your Name]	Power BI
-Machine Learning Model Development	[Your Name]	Python, Scikit-learn
-Presentation & Documentation	All Team Members	PowerPoint, GitHub
-🗓️ Project Timeline
-Week	Dates	Main Tasks
-Week 1-2	[Dates]	Data generation, dataset extension, documentation setup
-Week 2-3	[Dates]	Data preprocessing and feature engineering with Python
-Week 3-5	[Dates]	Dashboard creation in Power BI (4 dashboards)
-Week 5-6	[Dates]	Model training & testing using Scikit-learn
-Week 6-7	[Dates]	Final testing, presentation design, and review
+Patient lifetime value
+
+Doctor performance
+
+Hospital operations
+
+Financial metrics and payments
+
+Appointment patterns
+
+3. Machine Learning Model
+
+Trained Logistic Regression models to predict appointment completion.
+
+Evaluated performance using accuracy and recall.
+
+Compared standard and balanced models.
+
+4. Reporting
+
+Generated Power BI reports summarizing insights.
+
+Prepared the final presentation and documentation.
+
 📊 Key Performance Indicators (KPIs)
-🏥 Patient Care Metrics
-Average Patient LTV: $11.48K
+Category	KPI	Description
+Patient Value	Average Patient LTV	Measures how much value each patient brings.
+Operations	Appointment Completion Rate	Shows efficiency in managing appointments.
+Financial	Total Billings	Monitors revenue across hospital branches.
+Doctor Insights	Treatments per Doctor	Evaluates doctor activity and load.
+ML Performance	Accuracy & Recall	Measures predictive model performance.
+📅 Project Timeline & Milestones
+Phase	Key Activities	Duration
+Phase 1: Data Preparation	Clean datasets, integrate patient/doctor/appointment/billing data.	Week 1–2
+Phase 2: Dashboard Development	Create Power BI dashboards for LTV, operations, doctors, and finance.	Week 3–4
+Phase 3: Machine Learning	Train appointment prediction model, evaluate accuracy.	Week 5
+Phase 4: Final Reporting	Prepare documentation and final PowerPoint presentation.	Week 6
+🚀 Deliverables
 
-Patient Lifespan: 11 years
+Cleaned and merged hospital datasets
 
-Average Visits per Patient: 4 visits
+Power BI dashboards for:
 
-Appointment Completion Rate: 24.9%
+Patient LTV
 
-⏳ Operational Efficiency
-Total Appointments: 200
+Doctor analytics
 
-Completed Treatments: 46
+Hospital operations
 
-Active Patient Growth: -14.29%
+Financial insights
 
-Peak Days: Wednesday/Tuesday (18.50% of treatments)
+Machine learning model predicting appointment completion
 
-💰 Financial Performance
-Total Billings: $551.25K
+Performance evaluation report
 
-Revenue Percentage: 31.5%
+Final documentation and presentation
 
-Average Treatment Cost: $2.74K
+👥 Roles & Responsibilities
+Role	Member	Responsibilities
+Project Lead / Documentation	Esraa	Manage workflow, support ML, create presentation
+Data Cleaning & Integration	Shimaa	Clean hospital datasets using Power Query
+Data Visualization	Samar	Build all Power BI dashboards
+Machine Learning Modeling	Sama & Esraa	Train ML models and evaluate results
+Analysis Support	Esraa	Write insights, summaries, and project explanations
+🧭 Setup & Execution Guide
+1. Clone the Repository
+git clone https://github.com/yourrepo/hospital-performance-analytics.git
 
-Billing Status: Paid ($173.42K), Pending ($184.61K), Failed ($193.21K)
+2. Install Dependencies
+pip install pandas scikit-learn matplotlib
 
-😊 Service Delivery
-Most Common Service: Chemotherapy (49 patients)
+3. Load Datasets
 
-Insurance Providers: 4 providers
+Place all CSV files in the /data folder.
 
-Hospital Branches: 3 branches
+4. Run Data Preparation
 
-Specializations: 3 (Dermatology 35%, Pediatrics 49%, Oncology 16%)
+Use Python scripts and Power Query files to clean the data.
 
-🚀 Setup & Execution Guide
-1️⃣ Clone the Repository
-bash
-git clone https://github.com/yourname/hospital-analytics-ml.git
-cd hospital-analytics-ml
-2️⃣ Install Dependencies
-bash
-pip install pandas numpy scikit-learn jupyter
-3️⃣ Run the Project
-Data Generation:
+5. Train ML Model
 
-python
-# Open and run the Jupyter notebook
-jupyter notebook New_ML_Organized.ipynb
-# Execute data generation cells to create extended datasets
-Machine Learning:
+Run the notebook to generate appointment predictions.
 
-Train the appointment prediction model​
+6. Visualize Insights
 
-Two models available:
-
-Standard Logistic Regression: 69.5% accuracy
-
-Balanced Logistic Regression: 54% accuracy, 67% recall
-
-Power BI Dashboards:
-
-Open Power BI Desktop
-
-Import CSV files: extended_doctors.csv, extended_patients.csv, extended_appointments.csv, extended_treatments.csv, extended_billing.csv
-
-Create relationships between tables
-
-Build 4 dashboards:
-
-Patient Lifetime Value dashboard
-
-Doctor Insights dashboard
-
-Hospital Operations KPIs dashboard
-
-Financial Overview dashboard
+Load the cleaned dataset in Power BI to view dashboards.
 
 🔮 Future Enhancements
-Deploy real-time dashboards with live hospital data streams
 
-Improve ML model accuracy with deep learning approaches
+Add real-time appointment tracking and reminders.
 
-Automate alert systems for high-risk no-show appointments
+Use advanced models (Random Forest, XGBoost) for higher accuracy.
 
-Implement cloud-based BI solutions for scalability
+Expand datasets to include more hospitals and branches.
 
-Add NLP for patient feedback analysis
+Integrate patient satisfaction surveys for deeper analysis.
 
-📬 Contact Information
-📧 Email: [your.email@university.edu]
-🔗 LinkedIn: [Your LinkedIn Profile]
-🎓 Institution: [Your University - DEPI Program]
+Automate report refresh using Power Automate.
+
+📩 Contact Information
+
+📧 Email: teamemail@example.com
+
+👩‍💻 Project Coordinator: Esraa Allam
+🔗 LinkedIn: linkedin.com/in/esraa-allam
 
 ⭐ Contributions & Support
-If you find this project valuable, give it a ⭐ and contribute via pull requests!
-Let's make healthcare data smarter together 💡
+
+If you find this project helpful, please ⭐ the repository and feel free to contribute with improvements.
 
 © Copyright & Licensing
-© 2024 [Your Team Name]. All Rights Reserved.
-DEPI Graduation Project - Data Analysis & Business Intelligence Track
-This project is for educational purposes. The dataset is synthetically generated.
+
+© 2025 Hospital Performance & Prediction Team. All Rights Reserved.
+This project is licensed under the MIT License.
