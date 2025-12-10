@@ -1,17 +1,5 @@
 # 🏥 Hospital Performance Analytics & Appointment Completion Prediction
 
-<div align="center">
-
-![Hospital Analytics](https://img.shields.io/badge/Healthcare-Analytics-blue)
-![Machine Learning](https://img.shields.io/badge/ML-Prediction-green)
-![Power BI](https://img.shields.io/badge/BI-Power%20BI-yellow)
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
-![License](https://img.shields.io/badge/License-MIT-brightgreen)
-
-**A Cognitia Team Project**
-
-</div>
-
 ## 🔍 Executive Summary
 
 This project combines Business Intelligence (BI) and Machine Learning to analyze hospital operations, financial performance, doctor activities, patient behavior, and appointment completion patterns. By integrating multiple hospital datasets, the project provides decision-makers with clear insights into patient lifetime value, doctor performance, revenue trends, and operational efficiency.
@@ -160,3 +148,116 @@ Built multiple Power BI dashboards covering:
 ## 🧭 Setup & Execution Guide
 
 ### 1. Clone the Repository
+
+git clone https://github.com/Esraa-H-Allam/Cognitia.git
+cd Cognitia
+
+text
+
+### 2. Install Dependencies
+
+pip install pandas scikit-learn matplotlib numpy
+
+text
+
+Or use the requirements file:
+
+pip install -r requirements.txt
+
+text
+
+### 3. Load Datasets
+
+Place all CSV files in the `/data` folder:
+
+/data
+├── hospital_operations.csv
+├── appointments.csv
+└── billing_data.csv
+
+text
+
+### 4. Run Data Preparation
+
+Use Python scripts and Power Query files to clean the data:
+
+python scripts/data_cleaning.py
+
+text
+
+### 5. Train ML Model
+
+Run the Jupyter notebook to generate appointment predictions:
+
+jupyter notebook notebooks/ml_model_training.ipynb
+
+text
+
+### 6. Visualize Insights
+
+Load the cleaned dataset in Power BI to view interactive dashboards.
+
+---
+
+## 🔮 Future Enhancements
+
+- 📱 Add real-time appointment tracking and automated reminders
+- 🤖 Use advanced models (Random Forest, XGBoost) for higher prediction accuracy
+- 🏥 Expand datasets to include more hospitals and branches
+- 📊 Integrate patient satisfaction surveys for deeper analysis
+- ⚡ Automate report refresh using Power Automate or Python scheduling
+- 🔔 Implement SMS/Email notification system for appointment reminders
+
+---
+
+## 📩 Contact Information
+
+### Project Coordinator
+**Esraa Allam**  
+📧 **Email**: [esraahassanallam@gmail.com](mailto:esraahassanallam@gmail.com)  
+🔗 **LinkedIn**: [linkedin.com/in/esraa-allam](https://linkedin.com/in/esraa-allam)  
+🐙 **GitHub**: [@Esraa-H-Allam](https://github.com/Esraa-H-Allam)
+
+### Team Cognitia
+🌐 **Repository**: [github.com/Esraa-H-Allam/Cognitia](https://github.com/Esraa-H-Allam/Cognitia)
+
+---
+
+## ⭐ Contributions & Support
+
+If you find this project helpful, please ⭐ the repository and feel free to contribute with improvements!
+
+### How to Contribute
+
+1. Fork the repository
+2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+### Found a Bug?
+
+Please open an issue on GitHub with detailed information about the problem.
+
+---
+
+## © Copyright & Licensing
+
+**© 2025 Team Cognitia - Hospital Performance & Prediction Team. All Rights Reserved.**
+
+This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+
+
+---
+
+<div align="center">
+  
+**Made with ❤️ by Team Cognitia**
+
+![Healthcare](https://img.shields.io/badge/Domain-Healthcare-red)
+![Analytics](https://img.shields.io/badge/Focus-Analytics-orange)
+![Prediction](https://img.shields.io/badge/ML-Prediction-green)
+
+[⬆ Back to Top](#-hospital-performance-analytics--appointment-completion-prediction)
+
+</div>
